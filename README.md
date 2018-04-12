@@ -178,7 +178,7 @@ We see a useful distinction between social internet and social media:
 * "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
 
 
-### External motivation vs. intrinsic motivation
+### Extrinsic motivation vs. intrinsic motivation
 
 * "The more interactions your contributions generate, the more likely you will become a persona leader. Each milestone unlocks rewards, and adds layers of fun to your social connections."
 
