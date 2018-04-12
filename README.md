@@ -47,13 +47,13 @@ We therefore propose new social network ideas for community discussion, such as 
 
 We are using this document a work in progress. We are improving this document as we learn. 
 
-We welcome suggestions, feedback, advice, ideas, and constructive criticism. Please use GitHub issues.
+We welcome suggestions, feedback, advice, ideas, and constructive criticism. You can contact us by email (joel@joelparkerhenderson.com), Twitter (@joel_henderson), or by using GitHub issues or pull requests.
 
 We intend this document to be a friendly introduction to the areas that we want to discuss; we do not intend for this document to be a comprehensive reference, or a literature review, or a societal manifesto, or a technological specification. We do welcome links to all these areas.
 
 We want to use this document to explore the viability of new social network that helps people. Specifically, we want this document to look at both the purpose i.e. why do this, and also the pragmatics i.e. how to create this.
 
-We use quotations that may be lightly edited for content, context, readability, consistency, and anonymity.
+We use quotations with light editing for content, context, readability, consistency, and anonymity.
 
 
 
@@ -63,27 +63,27 @@ We are looking at the biggest social networks.
 
 Prominent examples:
 
-* Facebook
-* Twitter
-* LinkedIn
+* [Facebook](https://facebook.com)
+* [Twitter](https://twitter.com)
+* [LinkedIn](https://linkedin.com)
 * (more?)
 
 We are inspired by initiatives that use websites and technology toward common good. 
 
 Prominent examples:
 
-* Wikimedia Foundation
-* Internet Archive
-* Y Combinator’s nonprofit funding.
+* [Wikimedia Foundation - Wikipedia.org](https://wikimediafoundation.org)
+* [Internet Archive - Archive.org](https://archive.org)
+* [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
 * (more?)
 
 We are learning about newer kinds of technologies such as distributed social networks. 
 
 Prominent examples:
 
-* Diaspora
-* Mastodon
-* Patchwork
+* [Diaspora](https://diasporafoundation.org/)
+* [Mastodon](https://mastodon.social)
+* [Patchwork on Secure Scuttlebutt (SSB)](https://github.com/ssbc/patchwork)
 * (more?)
 
 We are looking for community advice and technology insight such as on Hacker News.
@@ -95,25 +95,34 @@ We are researching position posts by advocacy leaders.
 
 Prominent examples:
 
-* Social media and its discontents by Cal Newport
+* [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
 * (more?)
 
 We are frequent users of social coding sites.
 
 Prominent examples:
 
-* GitHub
-* Bitbucket
-* StackOverflow
+* [GitHub](https://github.com)
+* [Bitbucket](https://bitbucket.org)
+* [StackOverflow](https://stackoverflow.com)
 * (more?)
 
 We are users of social identity tools.
 
 Prominent examples:
 
-* GPG/PGP
-* Keybase
+* [GPG: The GNU Privacy Guard](https://www.gnupg.org/)
+* [Keybase](keybase.io)
 * (more?)
+
+We donate to technology groups that may be relevant:
+
+* [Apache Software Foundation (ASF)](http://apache.org/)
+* [Electronic Frontier Foundation (EFF)](http://eff.org/)
+* [Free Software Foundation (FSF)](http://www.fsf.org/)
+* [Linux Foundation](http://www.linuxfoundation.org/)
+* [Open Source Initiative (OSI)](http://https://opensource.org/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
 
 
 ### Challenges
