@@ -4,22 +4,21 @@ Work in progress notes about how to build a social network for social good.
 
 * [Introduction](#introduction)
   * [Abstract](#abstract)
+  * [Feedback](#feedback)
   * [About this document](#about-this-document)
-  * [Baseline](#baseline)
+* [Baseline](#baseline)
+  * [Context](#context)
   * [Challenges](#challenges)
+  * [Articles](#articles)
 * [Issues](#issues)
-  * [Funding: advertisements, donations, subscriptions?](#funding-advertisements-donations-subscriptions-)
-  * [Audience: general public, niche groups, special needs?](#audience-general-public-niche-groups-special-needs-)
-* [Scope: benefits, features, minimum viable product?](#scope-benefits-features-minimum-viable-product-)
   * [Ranked feed vs. linear feed](#ranked-feed-vs-linear-feed)
   * [Original content vs. resharing](#original-content-vs-resharing)
-  * [External motivation vs. intrinsic motivation](#external-motivation-vs-intrinsic-motivation)
+  * [Extrinsic motivation vs. intrinsic motivation](#extrinsic-motivation-vs-intrinsic-motivation)
   * [Centralized vs. decentralized](#centralized-vs-decentralized)
   * [Mobile vs. desktop](#mobile-vs-desktop)
 * [Minimum Viable Product](#minimum-viable-product)
   * [Capabilities](#capabilities)
   * [Niche ideas](#niche-ideas)
-  * [Differentiation ideas](#differentiation-ideas)
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
@@ -44,11 +43,14 @@ However, we also believe that some social networks are growing out of control, b
 We therefore propose new social network ideas for community discussion, such as a social network that is a not-for-profit (NFP), a social network that uses free/open/libre source (FLOSS), and a social network that is founded on social good.
 
 
+### Feedback
+
+We welcome feedback, suggestions, and constructive criticism. You can contact us by email (joel@joelparkerhenderson.com), Twitter ([@joel_henderson](https://twitter.com/joel_henderson)), or by using GitHub issues or pull requests.
+
+
 ### About this document
 
 We are using this document a work in progress. We are improving this document as we learn. 
-
-We welcome suggestions, feedback, advice, ideas, and constructive criticism. You can contact us by email (joel@joelparkerhenderson.com), Twitter (@joel_henderson), or by using GitHub issues or pull requests.
 
 We intend this document to be a friendly introduction to the areas that we want to discuss; we do not intend for this document to be a comprehensive reference, or a literature review, or a societal manifesto, or a technological specification. We do welcome links to all these areas.
 
@@ -57,53 +59,34 @@ We want to use this document to explore the viability of new social network that
 We use quotations with light editing for content, context, readability, consistency, and anonymity.
 
 
+## Baseline
 
-### Baseline
 
-We are looking at the biggest social networks such as:
-* [Facebook](https://facebook.com)
-* [Twitter](https://twitter.com)
-* [LinkedIn](https://linkedin.com)
-* (more?)
+### Context
 
-We are inspired by initiatives that use websites and technology toward common good such as:
-* [Wikimedia Foundation - Wikipedia.org](https://wikimediafoundation.org)
-* [Internet Archive - Archive.org](https://archive.org)
-* [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
-* [Human Connection](https://human-connection.org)
-* (more?)
+We are looking at the biggest social networks such as 
+[Facebook](https://facebook.com) and
+[Twitter](https://twitter.com).
 
-We are learning about newer kinds of technologies such as distributed social networks:
-* [Diaspora](https://diasporafoundation.org/)
-* [Mastodon](https://mastodon.social)
-* [Patchwork on Secure Scuttlebutt (SSB)](https://github.com/ssbc/patchwork)
-* (more?)
+We are inspired by websites using technology toward social common good such as 
+[Wikipedia](https://wikipedia.org) and
+[Craigslist](https://craigslist.org).
 
-We are reading position posts by advocacy leaders such as:
-* [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
-* [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
-* [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
-* [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
-* (more?)
+We admire distributed social networks such as
+[Mastodon](https://mastodon.social) and
+[Patchwork](https://github.com/ssbc/patchwork).
 
-We are frequent users of social coding sites such as
-* [GitHub](https://github.com)
-* [Bitbucket](https://bitbucket.org)
-* [StackOverflow](https://stackoverflow.com)
-* (more?)
+We are frequent users of social coding sites such as 
+[GitHub](https://github.com) and
+[StackOverflow](https://stackoverflow.com).
 
-We are users of social identity tools such as:
-* [GPG: The GNU Privacy Guard](https://www.gnupg.org/)
-* [Keybase](keybase.io)
-* (more?)
+We are users of social identity tools such as 
+[GPG](https://www.gnupg.org/) and
+[Keybase](keybase.io).
 
-We donate to technology groups that may be relevant such as:
-* [Apache Software Foundation (ASF)](http://apache.org/)
-* [Electronic Frontier Foundation (EFF)](http://eff.org/)
-* [Free Software Foundation (FSF)](http://www.fsf.org/)
-* [Linux Foundation](http://www.linuxfoundation.org/)
-* [Open Source Initiative (OSI)](http://https://opensource.org/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
+We donate to technology advocacy groups such as 
+[Electronic Frontier Foundation (EFF)](http://eff.org/) and
+[Open Source Initiative (OSI)](http://https://opensource.org/).
 
 
 ### Challenges
@@ -129,6 +112,18 @@ We see a useful distinction between social internet and social media:
  * "Social internet describes the general ways in which the global communication network and open protocols known as “the internet” enable good things like connecting people, spreading information, and supporting expression and activism."
 
 * "Social media, by contrast, describes the attempt to privatize these capabilities by large companies within the newly emerged algorithmic attention economy, a particularly virulent strain of the attention sector that leverages personal data and sophisticated algorithms to ruthlessly siphon users’ cognitive capital."
+
+
+### Articles
+
+We are reading articles and posts by social network advocates such as:
+* [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
+* [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
+* [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
+* [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
+* [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
+* [Human Connection](https://human-connection.org)
+* (more?)
 
 
 ## Issues
