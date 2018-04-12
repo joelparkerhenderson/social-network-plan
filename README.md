@@ -151,25 +151,30 @@ Prominent examples:
 * Funding, such as whether to accept advertising or subscriptions or donations.
 * (more?)
 
+We see a useful distinction between social internet and social media:
+
+ * "Social internet describes the general ways in which the global communication network and open protocols known as “the internet” enable good things like connecting people, spreading information, and supporting expression and activism."
+
+* "Social media, by contrast, describes the attempt to privatize these capabilities by large companies within the newly emerged algorithmic attention economy, a particularly virulent strain of the attention sector that leverages personal data and sophisticated algorithms to ruthlessly siphon users’ cognitive capital."
+
 
 ## Debates
 
 
-### Social internet vs. social media
-
-* "Social internet describes the general ways in which the global communication network and open protocols known as “the internet” enable good things like connecting people, spreading information, and supporting expression and activism. Social media, by contrast, describes the attempt to privatize these capabilities by large companies within the newly emerged algorithmic attention economy, a particularly virulent strain of the attention sector that leverages personal data and sophisticated algorithms to ruthlessly siphon users’ cognitive capital."
-
-
-### Subscriptions vs. advertisements
-
-* "Subscription sounds like it might be a good idea because it seems like it would remove the incentive to monetize personal information, but in practice it creates a barrier to adoption and makes the social network kind of useless."
+### Funding: such as advertisements, donations, subscriptions
 
 * "The incentives created by an advertising business model are to essentially addict people psychologically to your product, and then to cause outrage cycles. You want to feed them stuff that either makes them afraid or angry, because when they’re excited by low level emotions like that, they share more stuff, they’re more active, they spend more time on the site, and see more ads, and they’re just more valuable to them."
 
+* "Subscription sounds like it might be a good idea because it seems like it would remove the incentive to monetize personal information, but in practice it creates a barrier to adoption and makes the social network kind of useless."
 
-### General public vs. niche audience
+* [Discuss here](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
+
+
+### Audience: general public, niche groups, special needs
 
 * "The social startups that have struck it big in the post-Facebook era have all started by carving out a different niche. That difference, Cross argues, can’t just be about a site’s back-end architecture or business model, as with Diaspora (an open-source Facebook) or App.net (a Twitter without ads). The product itself has to fulfill a fresh purpose for its users, like sharing snazzy smartphone snapshots (Instagram), networking and advancing their careers (LinkedIn), or showing off their taste in fashion, food, and design (Pinterest)."
+
+* [Discuss here](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
 
 
 ### Ranked feed vs. linear feed
