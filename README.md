@@ -135,12 +135,10 @@ The most important issues have their own pages for discussion:
 * [Scope: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
 * [Comparisons: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
 * [Names: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
+* [Data: who owns it, who uses it, who controls it?](https://github.com/joelparkerhenderson/social_network_plan/issues/6)
+* [Security: spammers, hackers, masqueraders?](https://github.com/joelparkerhenderson/social_network_plan/issues/7)
+* [Community: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
 
-Prominent examples:
-
-* Ownership, such as whether people can own their own data and control its sharing.
-* Organization, such as how to involve the community, developers, and interest groups.
-* Security, such as how to protect from fake accounts, spam messages, and identity theft.
 
 
 ### Ranked feed vs. linear feed
