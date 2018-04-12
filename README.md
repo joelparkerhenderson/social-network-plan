@@ -159,7 +159,7 @@ We see a useful distinction between social internet and social media:
 * [Discussion on this issue](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
 
 
-## Scope: benefits, features, minimum viable product?
+### Scope: benefits, features, minimum viable product?
 
 * "What features and benefits are necessary to get someone to try a new social network? What can we build as directly as possible, to try our plan right now?"
 
