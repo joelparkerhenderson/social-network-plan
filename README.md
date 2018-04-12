@@ -87,11 +87,6 @@ Prominent examples:
 * [Patchwork on Secure Scuttlebutt (SSB)](https://github.com/ssbc/patchwork)
 * (more?)
 
-We are looking for community advice and technology insight such as on Hacker News.
-
-* https://news.ycombinator.com/item?id=16819873
-* (more?)
-
 We are researching position posts by advocacy leaders.
 
 Prominent examples:
