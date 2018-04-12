@@ -68,7 +68,7 @@ We are looking at the biggest social networks such as
 [Facebook](https://facebook.com) and
 [Twitter](https://twitter.com).
 
-We are inspired by websites using technology toward social common good such as 
+We like websites using technology for social common good such as 
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
 
