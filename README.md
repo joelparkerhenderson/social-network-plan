@@ -168,6 +168,11 @@ Prominent examples:
 * "Subscription sounds like it might be a good idea because it seems like it would remove the incentive to monetize personal information, but in practice it creates a barrier to adoption and makes the social network kind of useless."
 
 
+### General public vs. niche audience
+
+* "The social startups that have struck it big in the post-Facebook era have all started by carving out a different niche. That difference, Cross argues, can’t just be about a site’s back-end architecture or business model, as with Diaspora (an open-source Facebook) or App.net (a Twitter without ads). The product itself has to fulfill a fresh purpose for its users, like sharing snazzy smartphone snapshots (Instagram), networking and advancing their careers (LinkedIn), or showing off their taste in fashion, food, and design (Pinterest)."
+
+
 ### Ranked feed vs. linear feed
 
 * "I wish there was a social network that could somehow avoid people competing to post the highest volume of popular content, so they could relax and focus on posting information about themselves that other people want to know. But even if you were somehow able to force people to just post about themselves, no third-party content, there are plenty of people who would make a meal of it by posting endless videos about their grooming regimen, their cooking, or cute stuff their cat does. It all just devolves into competing for attention."
