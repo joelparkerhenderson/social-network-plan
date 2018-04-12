@@ -60,62 +60,43 @@ We use quotations with light editing for content, context, readability, consiste
 
 ### Baseline
 
-We are looking at the biggest social networks.
-
-Prominent examples:
-
+We are looking at the biggest social networks such as:
 * [Facebook](https://facebook.com)
 * [Twitter](https://twitter.com)
 * [LinkedIn](https://linkedin.com)
 * (more?)
 
-We are inspired by initiatives that use websites and technology toward common good. 
-
-Prominent examples:
-
+We are inspired by initiatives that use websites and technology toward common good such as:
 * [Wikimedia Foundation - Wikipedia.org](https://wikimediafoundation.org)
 * [Internet Archive - Archive.org](https://archive.org)
 * [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
 * [Human Connection](https://human-connection.org)
 * (more?)
 
-We are learning about newer kinds of technologies such as distributed social networks. 
-
-Prominent examples:
-
+We are learning about newer kinds of technologies such as distributed social networks:
 * [Diaspora](https://diasporafoundation.org/)
 * [Mastodon](https://mastodon.social)
 * [Patchwork on Secure Scuttlebutt (SSB)](https://github.com/ssbc/patchwork)
 * (more?)
 
-We are researching position posts by advocacy leaders.
-
-Prominent examples:
-
+We are reading position posts by advocacy leaders such as:
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
 * [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
 * [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
 * (more?)
 
-We are frequent users of social coding sites.
-
-Prominent examples:
-
+We are frequent users of social coding sites such as
 * [GitHub](https://github.com)
 * [Bitbucket](https://bitbucket.org)
 * [StackOverflow](https://stackoverflow.com)
 * (more?)
 
-We are users of social identity tools.
-
-Prominent examples:
-
+We are users of social identity tools such as:
 * [GPG: The GNU Privacy Guard](https://www.gnupg.org/)
 * [Keybase](keybase.io)
 * (more?)
 
-We donate to technology groups that may be relevant:
-
+We donate to technology groups that may be relevant such as:
 * [Apache Software Foundation (ASF)](http://apache.org/)
 * [Electronic Frontier Foundation (EFF)](http://eff.org/)
 * [Free Software Foundation (FSF)](http://www.fsf.org/)
