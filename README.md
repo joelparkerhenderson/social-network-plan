@@ -96,6 +96,7 @@ We are researching position posts by advocacy leaders.
 Prominent examples:
 
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
+* [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
 * (more?)
 
 We are frequent users of social coding sites.
