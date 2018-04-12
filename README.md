@@ -310,8 +310,8 @@ Discuss idea of meta-routes using:
 * Phone number: https://www.example.com/18005551111
 * Domain name: https://www.example.com/reddit.com
 * Overlay name: https://www.example.com/reddit.com/u/alice
-* Key encoding: https://www.example.com/isbn/...
-* Geo location: https://www.example.com/map/<lat>,<lng>
+* Key encoding: https://www.example.com/isbn/123456789
+* Geo location: https://www.example.com/map/lat/lng/alt
 * Unique id: https://www.example.com/0x1234567890
 
 Brainstorms:
