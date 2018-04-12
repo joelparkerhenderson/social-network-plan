@@ -83,6 +83,7 @@ We are reading position posts by advocacy leaders such as:
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
 * [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
 * [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
+* [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
 * (more?)
 
 We are frequent users of social coding sites such as
@@ -122,16 +123,6 @@ Examples:
 * Code: open source, closed source, etc.?
 * (more?)
 
-We see challenges in significant fundamental areas; we want to research these more.
-
-Prominent examples:
-
-* Identity, such as whether people can use their real names or  pseudonyms.
-* Ownership, such as whether people can own their own data and control its sharing.
-* Organization, such as how to involve the community, developers, and interest groups.
-* Security, such as how to protect from fake accounts, spam messages, and identity theft.
-* Funding, such as whether to accept advertising or subscriptions or donations.
-* (more?)
 
 We see a useful distinction between social internet and social media:
 
@@ -142,30 +133,19 @@ We see a useful distinction between social internet and social media:
 
 ## Issues
 
+The most important issues have their own pages for discussion:
 
-### Funding: advertisements, donations, subscriptions?
+* [Funding: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
+* [Audience: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
+* [Scope: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
+* [Comparisons: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
+* [Names: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
 
-* "The incentives created by an advertising business model are to essentially addict people psychologically to your product, and then to cause outrage cycles. You want to feed them stuff that either makes them afraid or angry, because when they’re excited by low level emotions like that, they share more stuff, they’re more active, they spend more time on the site, and see more ads, and they’re just more valuable to them."
+Prominent examples:
 
-* "Subscription sounds like it might be a good idea because it seems like it would remove the incentive to monetize personal information, but in practice it creates a barrier to adoption and makes the social network kind of useless."
-
-* [Discussion on this issue](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
-
-
-### Audience: general public, niche groups, special needs?
-
-* "The social startups that have struck it big in the post-Facebook era have all started by carving out a different niche. That difference, Cross argues, can’t just be about a site’s back-end architecture or business model, as with Diaspora (an open-source Facebook) or App.net (a Twitter without ads). The product itself has to fulfill a fresh purpose for its users, like sharing snazzy smartphone snapshots (Instagram), networking and advancing their careers (LinkedIn), or showing off their taste in fashion, food, and design (Pinterest)."
-
-* [Discussion on this issue](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
-
-
-### Scope: benefits, features, minimum viable product?
-
-* "What features and benefits are necessary to get someone to try a new social network? What can we build as directly as possible, to try our plan right now?"
-
-* "Facebook has the most valuable triumvirate of requirements for a successful service: a huge audience, an huge pile of money, and huge group of smart employees. The result is a social network funded by advertising and virtual goods. They are, in a very real sense, the ultimate example of the minimum viable product: there is nothing there. Peek behind the curtain and the social network is held up only by its connections."
-
-* [Discussion on this issue](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
+* Ownership, such as whether people can own their own data and control its sharing.
+* Organization, such as how to involve the community, developers, and interest groups.
+* Security, such as how to protect from fake accounts, spam messages, and identity theft.
 
 
 ### Ranked feed vs. linear feed
@@ -243,25 +223,6 @@ Coupon ideas:
 * Coupons involve many areas e.g. people, brands, stores, wallets, redemptions.
 * Con: high-end influencers don’t care much about coupons
 
-
-### Differentiation ideas
-
-Versus Twitter:
-* I want a longer username, not limited to 15-characters.
-* I want long posts.
-
-Versus Facebook:
-* I want separation e.g. peers vs. news, work vs. home, family vs. friends.
-* I want a pin area so I can feature my current interests e.g. links to music.
-* I want to share with groups of people e.g. circles.
-* I want more ways to shape my feed, e.g. more photos of friends, fewer photos of food.
-* I want fewer ads and/or more-relevant ads.
-
-Versus LinkedIn:
-* I want to be able to apply for jobs more easily.
-* I want to feature my skills, rather than feature my resume or CV.
-* I want to follow company news, yet not get overwhelmed.
-* I want to automatically connect to all my coworkers e.g. enterprise address book.
 
 
 ## User Experience
