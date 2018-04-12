@@ -75,6 +75,7 @@ Prominent examples:
 * [Wikimedia Foundation - Wikipedia.org](https://wikimediafoundation.org)
 * [Internet Archive - Archive.org](https://archive.org)
 * [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
+* [Human Connection](https://human-connection.org)
 * (more?)
 
 We are learning about newer kinds of technologies such as distributed social networks. 
@@ -96,6 +97,7 @@ We are researching position posts by advocacy leaders.
 Prominent examples:
 
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
+* [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
 * [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
 * (more?)
 
