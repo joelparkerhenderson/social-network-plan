@@ -220,7 +220,7 @@ In scope:
 Maybe in scope:
 * Vote: e.g. like, love, star, upvote, downvote, flag
 * Blob: e.g. photo, video, audio, document
-* Team: e.g. group, circle, list of people, collection of users
+* Team: e.g. group, circle, room, forum, channel
 
 Defer to future scope:
 * Chat
