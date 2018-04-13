@@ -111,15 +111,15 @@ We see challenges in how people describe social networks; we suggest starter que
 
 Examples:
 
-* Benefits: give me reasons to try your product.
-* Differentiators: how are you different from the incumbents?
-* Costs: up-front fee, subscription service, advertising, etc.?
-* Audience: are you aiming for a general audience or a specific niche audience?
-* Privacy: what is your privacy policy, including sharing with 3rd party?
-* Platform: is your product aiming to be a platform, API, plugin, integation, etc.?
-* Coordination: centralised, decentralised, federated, etc.?
-* Access: mobile, web, desktop, native, etc.?
-* Code: open source, closed source, etc.?
+* **Benefits**: give me reasons to try your product.
+* **Audience**: are you aiming for a general audience or a specific niche audience?
+* **Comparisons**: how are you different from the incumbents?
+* **Funding**: up-front fee, subscription service, advertising, cost sharing, etc.?
+* **Privacy**: what is your privacy policy, including sharing with 3rd party?
+* **Platform**: is your product aiming to be a platform, API, plugin, integation, etc.?
+* **Coordination**: centralised, decentralised, federated, etc.?
+* **Access**: mobile, web, desktop, native, etc.?
+* **Code**: open source, closed source, etc.?
 * (more?)
 
 
@@ -127,16 +127,17 @@ Examples:
 
 Issues that are especially important to discuss:
 
-* [Funding: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
-* [Audience: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
-* [Scope: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
-* [Comparisons: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
-* [Names: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
-* [Data: who owns it, who uses it, who controls it?](https://github.com/joelparkerhenderson/social_network_plan/issues/6)
-* [Security: spammers, hackers, masqueraders?](https://github.com/joelparkerhenderson/social_network_plan/issues/7)
-* [Community: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
-* [Motivation: gamification, extrinsic, intrinsic?](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
-* [Niches: music, meets, malls, mashups, more?](https://github.com/joelparkerhenderson/social_network_plan/issues/10)
+* [**Funding**: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
+* [**Audience**: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
+* [**Scope**: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
+* [**Comparisons**: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
+* [**Names**: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
+* [**Data**: who owns it, who uses it, who controls it?](https://github.com/joelparkerhenderson/social_network_plan/issues/6)
+* [**Security**: spammers, hackers, masqueraders?](https://github.com/joelparkerhenderson/social_network_plan/issues/7)
+* [**Community**: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
+* [**Motivation**: gamification, extrinsic, intrinsic?](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
+* [**Niches**: music, meets, malls, mashups, more?](https://github.com/joelparkerhenderson/social_network_plan/issues/10)
+* (more?)
 
 
 ### Articles
