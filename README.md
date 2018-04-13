@@ -15,7 +15,9 @@ Work in progress notes about how to build a social network for social good.
   * [Issues](#issues)
   * [Articles](#articles)
 * [Minimum Viable Product](#minimum-viable-product)
-  * [Capabilities](#capabilities)
+  * [Yes](#yes)
+  * [Maybe](#maybe)
+  * [No](#no)
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
@@ -157,20 +159,26 @@ We are reading articles and posts by social network advocates such as:
 We believe that to be successful, the best path is to create the simplest-possible social network that people will actually use. This is a minimum viable product (MVP).
 
 
-### Capabilities
+### Yes
 
-In scope:
+Capabilities that we believe must be in scope:
 * Join: sign up, sign in, sign out, manage your own data, delete account
 * Post: e.g. title, text, link, image
 * Wall: e.g. profile page, news feed, timeline, calendar
 * Item: e.g. person, place, event, organization
 
-Maybe in scope:
+
+### Maybe
+
+Capabilities that we like, yet don't know if they must be in scope:
 * Vote: e.g. like, love, star, upvote, downvote, flag
 * Blob: e.g. photo, video, audio, document
 * Team: e.g. group, circle, room, forum, channel
 
-Defer to future scope:
+
+### No
+
+Capabilities that we want to defer to future scope:
 * Chat
 * Notifications
 * Mobile apps
