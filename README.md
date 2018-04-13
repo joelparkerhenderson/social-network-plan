@@ -232,7 +232,7 @@ Overlay site ideas:
 * News: Reddit, Digg
 
 
-## Technical Implementation
+## Implementation stack
 
 
 ### Working assumptions
