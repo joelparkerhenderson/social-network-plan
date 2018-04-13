@@ -36,11 +36,11 @@ Work in progress notes about how to build a social network for social good.
 
 ### Abstract
 
-Social network sites such as Facebook and Twitter these social sites enable people to connect with each other, to share messages and media, and stay informed. We believe social network sites have many significant benefits for people and for society. 
+Social network sites, such as Facebook and Twitter, enable people to connect with each other, and share messages and media. We believe social network sites have significant benefits for people and society. 
 
-However, we also believe that some social networks are growing out of control, beholden to special interests such as financiers and user data aggregation advertisers, and that these special interests are significantly dangerous to people and to society. 
+However, we also believe that the big social networks have problems. There are user data breaches, hacker fake accounts, corporate lack of accountability, over-emphasis on advertising, and walled-off restrictions. These problems harm people and society. 
 
-We therefore propose new social network ideas for community discussion, such as a social network that is a not-for-profit (NFP), a social network that uses free/open/libre source (FLOSS), and a social network that is founded on social good.
+We therefore propose new social network ideas, such as a social network that is a not-for-profit (NFP), that uses free/open/libre source (FLOSS), that has accountability and transparancy, and that is for social good.
 
 
 ### Feedback
@@ -72,10 +72,6 @@ We like websites using technology for social common good such as
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
 
-We admire distributed social networks such as
-[Mastodon](https://mastodon.social) and
-[Patchwork](https://github.com/ssbc/patchwork).
-
 We are frequent users of social coding sites such as 
 [GitHub](https://github.com) and
 [StackOverflow](https://stackoverflow.com).
@@ -84,12 +80,28 @@ We are users of social identity tools such as
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
 
+We like decentralized distributed social networks such as
+[Mastodon](https://mastodon.social) and
+[Patchwork](https://github.com/ssbc/patchwork).
+
 We donate to technology advocacy groups such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
 [Open Source Initiative (OSI)](http://https://opensource.org/).
 
 
-### Challenges
+### Social internet vs. social media
+
+We see a useful distinction between social internet and social media:
+
+ * "Social internet describes the general ways in which the global communication network and open protocols known as “the internet” enable good things like connecting people, spreading information, and supporting expression and activism."
+
+* "Social media, by contrast, describes the attempt to privatize these capabilities by large companies within the newly emerged algorithmic attention economy, a particularly virulent strain of the attention sector that leverages personal data and sophisticated algorithms to ruthlessly siphon users’ cognitive capital."
+
+
+## Challenges
+
+
+### How to describe a social network?
 
 We see challenges in how people describe social networks; we suggest starter questions.
 
@@ -107,11 +119,20 @@ Examples:
 * (more?)
 
 
-We see a useful distinction between social internet and social media:
+### Issues
 
- * "Social internet describes the general ways in which the global communication network and open protocols known as “the internet” enable good things like connecting people, spreading information, and supporting expression and activism."
+Issues that are especially important to discuss:
 
-* "Social media, by contrast, describes the attempt to privatize these capabilities by large companies within the newly emerged algorithmic attention economy, a particularly virulent strain of the attention sector that leverages personal data and sophisticated algorithms to ruthlessly siphon users’ cognitive capital."
+* [Funding: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
+* [Audience: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
+* [Scope: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
+* [Comparisons: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
+* [Names: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
+* [Data: who owns it, who uses it, who controls it?](https://github.com/joelparkerhenderson/social_network_plan/issues/6)
+* [Security: spammers, hackers, masqueraders?](https://github.com/joelparkerhenderson/social_network_plan/issues/7)
+* [Community: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
+* [Motivation: gamification, extrinsic, intrinsic?](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
+* [Niches: music, meets, malls, mashups, more?](https://github.com/joelparkerhenderson/social_network_plan/issues/10)
 
 
 ### Articles
@@ -124,52 +145,6 @@ We are reading articles and posts by social network advocates such as:
 * [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
 * [Human Connection](https://human-connection.org)
 * (more?)
-
-
-## Issues
-
-The most important issues have their own pages for discussion:
-
-* [Funding: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
-* [Audience: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
-* [Scope: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
-* [Comparisons: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
-* [Names: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
-* [Data: who owns it, who uses it, who controls it?](https://github.com/joelparkerhenderson/social_network_plan/issues/6)
-* [Security: spammers, hackers, masqueraders?](https://github.com/joelparkerhenderson/social_network_plan/issues/7)
-* [Community: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
-
-
-
-### Ranked feed vs. linear feed
-
-* "I wish there was a social network that could somehow avoid people competing to post the highest volume of popular content, so they could relax and focus on posting information about themselves that other people want to know. But even if you were somehow able to force people to just post about themselves, no third-party content, there are plenty of people who would make a meal of it by posting endless videos about their grooming regimen, their cooking, or cute stuff their cat does. It all just devolves into competing for attention."
-
-
-### Original content vs. resharing
-
-* "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
-
-
-### Extrinsic motivation vs. intrinsic motivation
-
-* "The more interactions your contributions generate, the more likely you will become a persona leader. Each milestone unlocks rewards, and adds layers of fun to your social connections."
-
-* "The short-term, dopamine-driven feedback loops that we have created are destroying how society works: no civil discourse, no cooperation, misinformation, mistruth."
-
-
-### Centralized vs. decentralized
-
-* "The only way social is going to work and be improved going forward is through decentralisation and taking our data out of the hands of a central repository where it can be used to target us, and is more vulnerable to breaches. Once we have that baseline the other problems can be solved by the communities themselves."
-
-* "The whole issue with the first decentralised networks at the moment are their usability and accessibility to the average person. There’s a lot of work to be done on this. There are 1000s of people tackling the problem globally from the protocol level to the user interfaces."
-
-* "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
-
-
-### Mobile vs. desktop
-
-* "I see no compelling reason to be mobile-only at full launch. Mobile-first for your MVP with early adopters, yes that makes a great deal of sense. But when a company does a full launch I think they should support as many of the major platforms as they can (Windows, Mac, Linux, Android, iOS)."
 
 
 ## Minimum Viable Product
@@ -197,25 +172,6 @@ Defer to future scope:
 * Old browsers
 * Live streams
 * Payments
-
-
-### Niche ideas
-
-Music ideas:
-* Music sharing seems to spread very well e.g. Spotify playlists.
-* Music involves many areas e.g. people, bands, clubs, promoters, events, tickets.
-* Many people have many opinions and multiple reasons to share.
-* Many people love ongoing engagement and also love new discovery.
-* Data collection is less risky e.g. data is not medical, business, family.
-* Easy to bootstrap e.g. via public data, wikipedia, existing sites.
-* Easy to focus geographically on major U.S. cities e.g. LA then NY.
-
-Coupon ideas:
-* Coupons are widely understood and have an immediate value prop.
-* Coupons are easier to track than ads.
-* Coupons involve many areas e.g. people, brands, stores, wallets, redemptions.
-* Con: high-end influencers don’t care much about coupons
-
 
 
 ## User Experience
@@ -319,4 +275,28 @@ Discuss project management such as:
 * Planning e.g. Asana, Trello
 * Prototyping e.g. Balsamiq, Photoshop
 * Devops e.g. GitHub, CircleCI
+
+
+### Debate: ranked feed vs. linear feed
+
+* "I wish there was a social network that could somehow avoid people competing to post the highest volume of popular content, so they could relax and focus on posting information about themselves that other people want to know. But even if you were somehow able to force people to just post about themselves, no third-party content, there are plenty of people who would make a meal of it by posting endless videos about their grooming regimen, their cooking, or cute stuff their cat does. It all just devolves into competing for attention."
+
+
+### Debate: original content vs. resharing
+
+* "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
+
+
+### Debate: centralized vs. decentralized
+
+* "The only way social is going to work and be improved going forward is through decentralisation and taking our data out of the hands of a central repository where it can be used to target us, and is more vulnerable to breaches. Once we have that baseline the other problems can be solved by the communities themselves."
+
+* "The whole issue with the first decentralised networks at the moment are their usability and accessibility to the average person. There’s a lot of work to be done on this. There are 1000s of people tackling the problem globally from the protocol level to the user interfaces."
+
+* "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
+
+
+### Issue: mobile vs. desktop
+
+* "I see no compelling reason to be mobile-only at full launch. Mobile-first for your MVP with early adopters, yes that makes a great deal of sense. But when a company does a full launch I think they should support as many of the major platforms as they can (Windows, Mac, Linux, Android, iOS)."
 
