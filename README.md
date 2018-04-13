@@ -28,10 +28,11 @@ Work in progress notes about how to build a social network for social good.
   * [Databases](#databases)
   * [Data exchange](#data-exchange)
   * [Project management](#project-management)
-  * [Debate: ranked feed vs. linear feed](#debate-ranked-feed-vs-linear-feed)
-  * [Debate: original content vs. resharing](#debate-original-content-vs-resharing)
-  * [Debate: centralized vs. decentralized](#debate-centralized-vs-decentralized)
-  * [Issue: mobile vs. desktop](#issue-mobile-vs-desktop)
+* [Implementation debates](#implementation-debates)
+  * [Ranked feed vs. linear feed](#ranked-feed-vs-linear-feed)
+  * [Original content vs. resharing](#original-content-vs-resharing)
+  * [Centralized vs. decentralized](#centralized-vs-decentralized)
+  * [Mobile vs. desktop](#mobile-vs-desktop)
 
 
 ## Introduction
