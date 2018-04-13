@@ -62,7 +62,7 @@ We use quotations with light editing for content, context, readability, consiste
 ## Baseline
 
 
-### Context
+### Social context
 
 We are looking at the biggest social networks such as 
 [Facebook](https://facebook.com) and
@@ -71,6 +71,13 @@ We are looking at the biggest social networks such as
 We like websites using technology for social common good such as 
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
+
+We donate to technology advocacy groups such as 
+[Electronic Frontier Foundation (EFF)](http://eff.org/) and
+[Open Source Initiative (OSI)](http://https://opensource.org/).
+
+
+### Technical context
 
 We are frequent users of social coding sites such as 
 [GitHub](https://github.com) and
@@ -83,10 +90,6 @@ We are users of social identity tools such as
 We like decentralized distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
-
-We donate to technology advocacy groups such as 
-[Electronic Frontier Foundation (EFF)](http://eff.org/) and
-[Open Source Initiative (OSI)](http://https://opensource.org/).
 
 
 ### Social internet vs. social media
