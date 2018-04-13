@@ -290,17 +290,21 @@ Discuss project management such as:
 * Devops e.g. GitHub, CircleCI
 
 
-### Debate: ranked feed vs. linear feed
+
+## Implementation debates
+
+
+### Ranked feed vs. linear feed
 
 * "I wish there was a social network that could somehow avoid people competing to post the highest volume of popular content, so they could relax and focus on posting information about themselves that other people want to know. But even if you were somehow able to force people to just post about themselves, no third-party content, there are plenty of people who would make a meal of it by posting endless videos about their grooming regimen, their cooking, or cute stuff their cat does. It all just devolves into competing for attention."
 
 
-### Debate: original content vs. resharing
+### Original content vs. resharing
 
 * "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
 
 
-### Debate: centralized vs. decentralized
+### Centralized vs. decentralized
 
 * "The only way social is going to work and be improved going forward is through decentralisation and taking our data out of the hands of a central repository where it can be used to target us, and is more vulnerable to breaches. Once we have that baseline the other problems can be solved by the communities themselves."
 
@@ -309,7 +313,7 @@ Discuss project management such as:
 * "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
 
 
-### Issue: mobile vs. desktop
+### Mobile vs. desktop
 
 * "I see no compelling reason to be mobile-only at full launch. Mobile-first for your MVP with early adopters, yes that makes a great deal of sense. But when a company does a full launch I think they should support as many of the major platforms as they can (Windows, Mac, Linux, Android, iOS)."
 
