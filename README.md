@@ -22,7 +22,7 @@ Work in progress notes about how to build a social network for social good.
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
-  * [Routes](#routes)
+  * [Meta-routes](#meta-routes)
 * [Implementation](#implementation)
   * [Planning](#planning)
   * [Full stack](#full-stack)
@@ -206,27 +206,32 @@ Discuss stories:
 * Why/how to provide what companies say they want, e.g. ads, analytics, branding?
 
 
-### Routes
+### Meta-routes
 
-Discuss idea of meta-routes using:
+We use the term "routes" to generically describe ways to reach people, places, items, etc.
+
+Examples:
+
+* Email addresses use a route such as: alice@example.com
+* Phones use an international standard such as: +1-415-317-2700
+* Domains use a domain name route such as: reddit.com
+* Facebook uses a URL username route such as http://facebook.com/alice
+* Booksellers use a International Standard Book Number such as: 123456789
+
+We use the term "meta-routes" to generically describe routes that contain other routes. 
+
+Examples of URLs that are each a route that contains another route:
+
 * Email address: https://www.example.com/alice@example.com
-* Phone number: https://www.example.com/18005551111
 * Domain name: https://www.example.com/reddit.com
-* Overlay name: https://www.example.com/reddit.com/u/alice
-* Key encoding: https://www.example.com/isbn/123456789
-* Geo location: https://www.example.com/map/lat/lng/alt
-* Unique id: https://www.example.com/0x1234567890
+* Phone number: https://www.example.com/+1-415-317-2700
+* Facebook user: https://www.example.com/facebook.com/alice
+* Bookseller ISBN: https://www.example.com/isbn/123456789
 
 Brainstorms:
-* Could meta-routes make it easier to sign up?
-* Could meta-routes make it much easier to automate account creation?
-
-Overlay site ideas:
-* Social: Facebook, LinkedIn, Google+
-* Music: Soundcloud, Spotify
-* Photos: Imgur, Flickr
-* Videos: YouTube, Vimeo
-* News: Reddit, Digg
+* We speculate that meta-routes may make it easier, faster, and better, to create a user-friendly social network that also connects to other networks.
+* For example meta-routes can automatically give each person their own page based on their email address, or on their multiple email addresses; the person doesn't have to choose a new username or compete with other people for usernames.
+* For example, meta-routes may improve people's trust in the network, because the URL contains more information that can be automatically verified, such as verifying the person's email address by sending an email, or telephone number by sending a text message, or domain name by having a sysadmin add a DNS record.
 
 
 ## Implementation
