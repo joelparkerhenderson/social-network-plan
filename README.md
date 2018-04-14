@@ -76,7 +76,7 @@ We like websites using technology for social common good such as
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
 
-We donate to technology advocacy groups such as 
+We look to technology advocacy groups such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
 [Open Source Initiative (OSI)](http://https://opensource.org/).
 
