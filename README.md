@@ -169,19 +169,19 @@ Capabilities that we believe must be in scope:
 ### Maybe, possibly in scope
 
 Capabilities that we like, yet don't know if they must be in scope:
-* Vote: e.g. like, love, star, upvote, downvote, flag
+* Mark: e.g. like, love, star, upvote, downvote, flag, tag
 * Blob: e.g. photo, video, audio, document
-* Team: e.g. group, circle, room, forum, channel
+* Team: e.g. group, circle, room, forum, channel, categories
+* Chat: e.g. comment, message, mail
 
 
 ### No, not in scope
 
 Capabilities that we want to defer to future scope:
-* Chat
-* Notifications
 * Mobile apps
 * Old browsers
 * Live streams
+* Notifications
 * Payments
 
 
