@@ -35,7 +35,7 @@ Work in progress notes about how to build a social network for social good.
 
 Social network sites, such as Facebook and Twitter, enable people to connect with each other, and share messages and media. We believe social network sites have significant benefits for people and society. 
 
-However, we also believe that the big social networks have problems. There are user data breaches, hacker fake accounts, corporate lack of accountability, over-emphasis on advertising, and walled-off restrictions. These problems harm people and society. 
+However, we also believe that the big social networks have problems: data breaches, fake accounts, subpar accountability, advertising overemphasis, and closed restrictions. These problems harm people and society. 
 
 We therefore propose new social network ideas, such as a social network that is a not-for-profit (NFP), that uses free/open/libre source (FLOSS), that has accountability and transparancy, and that is for social good.
 
