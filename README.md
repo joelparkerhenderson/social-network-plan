@@ -12,25 +12,20 @@ Work in progress notes about how to build a social network for social good.
   * [Social internet vs. social media](#social-internet-vs-social-media)
 * [Challenges](#challenges)
   * [Open issues](#open-issues)
+  * [Original content vs. resharing](#original-content-vs-resharing)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
   * [Articles](#articles)
 * [Minimum Viable Product](#minimum-viable-product)
-  * [Yes, in scope](#yes-in-scope)
+  * [Yes, likely in scope](#yes-likely-in-scope)
   * [Maybe, possibly in scope](#maybe-possibly-in-scope)
   * [No, not in scope](#no-not-in-scope)
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
   * [Routes](#routes)
-* [Implementation stack](#implementation-stack)
-  * [Working assumptions](#working-assumptions)
-  * [Languages](#languages)
-  * [Databases](#databases)
-  * [Data exchange](#data-exchange)
-  * [Project management](#project-management)
-* [Implementation debates](#implementation-debates)
-  * [Original content vs. resharing](#original-content-vs-resharing)
-  * [Mobile vs. desktop](#mobile-vs-desktop)
+* [Implementation](#implementation)
+  * [Planning](#planning)
+  * [Full stack](#full-stack)
 
 
 ## Introduction
@@ -124,6 +119,12 @@ Open issues that are especially important to discuss:
 * [**Topology**: centralized, decentralized, distributed, federated?](https://github.com/joelparkerhenderson/social_network_plan/issues/12)
 * (more?)
 
+<!--
+### Original content vs. resharing
+
+* "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
+-->
+
 
 ### How to describe a social network?
 
@@ -156,13 +157,13 @@ We are reading articles and posts by social network advocates such as:
 We believe that to be successful, the best path is to create the simplest-possible social network that people will actually use. This is a minimum viable product (MVP).
 
 
-### Yes, in scope
+### Yes, likely in scope
 
 Capabilities that we believe must be in scope:
-* Join: sign up, sign in, sign out, manage your own data, delete account
-* Post: e.g. title, text, link, image
-* Wall: e.g. profile page, news feed, timeline, calendar
-* Item: e.g. person, place, event, organization
+* Join: e.g. sign up, sign in, sign out, manage your data, delete your account
+* Post: e.g. with a combination of title, text, link, image
+* Wall: e.g. a profile page, news feed, timeline, calendar
+* Item: e.g. a person, place, event, organization
 
 
 ### Maybe, possibly in scope
@@ -228,28 +229,33 @@ Overlay site ideas:
 * News: Reddit, Digg
 
 
-## Implementation stack
+## Implementation
 
 
-### Working assumptions
+### Planning
 
 Discuss broad goals:
 * This project is more akin to an ambitious web app, less akin to a blogging site.
 * We value participation by many people and organizations.
 * The security needs to be bulletproof and independently-verifiable.
 
-Discuss working assumptions about organizational areas:
+Discuss organizational areas:
 * Prefer truly free technology over corporate-restricted technology.
 * Prefer more-welcoming communities over less-welcoming communities.
 * Prefer agile over waterfall.
 
-Discuss working assumptions about coding methodologies:
-* Functional code is easier to create reliably.
-* Functional code is easier to scale up on multithreaded machines.
+Discuss project management such as:
+* Planning e.g. Asana, Trello
+* Dicussion e.g. IRC, Slack
+* Prototyping e.g. Balsamiq, Photoshop
+
+Discuss planning methodologies:
+* Agile, lean, kanban, waterfall, etc.
+* Model, view, controller (MVC), data, context, interaction (DCI), etc. 
+* Functional code may be easier to create reliably and easier to scale up.
 
 
-
-### Languages
+### Full stack
 
 Discuss languages such as:
 * Popular tech e.g. React, Node, C++
@@ -257,18 +263,12 @@ Discuss languages such as:
 * Progressive tech e.g. Ember, Elixir, Rust
 * Mobile tech e.g. iOS, Android, React Native
 
-
-### Databases
-
 Discuss databases such as:
 * Relation-oriented e.g. MySQL, PostgreSQL, SQL Server
 * Document-oriented e.g. Mongo
 * Speed-oriented e.g. Redis, Memcached
 * Graph-oriented e.g. Fauna, Neo4J
 * Vendor-oriented e.g. Google Spanner, Amazon Aurora
-
-
-### Data exchange
 
 Discuss data exchange such as:
 * Resource-oriented e.g. REST-like
@@ -278,25 +278,10 @@ Discuss data exchange such as:
 * Publishing-oriented e.g. RSS, Atom, Pub/Sub
 * API-oriented e.g. JSON API, OpenAPI, LD, RDF, SPARQL
 
+Discuss platform areas such as:
+* Mobile vs. desktop
+* Phone size vs. tablet size vs. laptop size
+* Distribution on Windows, Mac, Linux, iOS, Android, etc.
+* Distribution via Apple App Store, Google Play, etc.
 
-### Project management
-
-Discuss project management such as:
-* Planning e.g. Asana, Trello
-* Prototyping e.g. Balsamiq, Photoshop
-* Devops e.g. GitHub, CircleCI
-
-
-## Implementation debates
-
-
-
-### Original content vs. resharing
-
-* "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
-
-
-### Mobile vs. desktop
-
-* "I see no compelling reason to be mobile-only at full launch. Mobile-first for your MVP with early adopters, yes that makes a great deal of sense. But when a company does a full launch I think they should support as many of the major platforms as they can (Windows, Mac, Linux, Android, iOS)."
 
