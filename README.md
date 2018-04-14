@@ -22,7 +22,7 @@ Work in progress notes about how to build a social network for social good.
   * [Sign in](#sign-in)
   * [Stories](#stories)
   * [Routes](#routes)
-* [Technical Implementation](#technical-implementation)
+* [Implementation stack](#implementation-stack)
   * [Working assumptions](#working-assumptions)
   * [Languages](#languages)
   * [Databases](#databases)
@@ -108,27 +108,9 @@ We see a useful distinction between social internet and social media:
 ## Challenges
 
 
-### How to describe a social network?
+### Open issues
 
-We see challenges in how people describe social networks; we suggest starter questions.
-
-Examples:
-
-* **Benefits**: give me reasons to try your product.
-* **Audience**: are you aiming for a general audience or a specific niche audience?
-* **Comparisons**: how are you different from the incumbents?
-* **Funding**: up-front fee, subscription service, advertising, cost sharing, etc.?
-* **Privacy**: what is your privacy policy, including sharing with 3rd party?
-* **Platform**: is your product aiming to be a platform, API, plugin, integation, etc.?
-* **Coordination**: centralised, decentralised, federated, etc.?
-* **Access**: mobile, web, desktop, native, etc.?
-* **Code**: open source, closed source, etc.?
-* (more?)
-
-
-### Issues
-
-Issues that are especially important to discuss:
+Open issues that are especially important to discuss:
 
 * [**Funding**: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
 * [**Audience**: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
@@ -140,6 +122,22 @@ Issues that are especially important to discuss:
 * [**Community**: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
 * [**Motivation**: gamification, extrinsic, intrinsic?](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
 * [**Niches**: music, meets, malls, mashups, more?](https://github.com/joelparkerhenderson/social_network_plan/issues/10)
+* [**Feeds**: linear, algorithmic, customizable?](https://github.com/joelparkerhenderson/social_network_plan/issues/11)
+* [**Topology**: centralized, decentralized, distributed, federated?](https://github.com/joelparkerhenderson/social_network_plan/issues/12)
+* (more?)
+
+
+### How to describe a social network?
+
+We see challenges in how people describe social networks; we suggest starter questions.
+
+Examples:
+
+* **Benefits**: give me reasons to try your product.
+* **Privacy**: what is your privacy policy, including sharing with 3rd party?
+* **Platform**: is your product aiming to be a platform, API, plugin, integation, etc.?
+* **Access**: mobile, web, desktop, native, etc.?
+* **Code**: open source, closed source, etc.?
 * (more?)
 
 
@@ -258,7 +256,7 @@ Discuss working assumptions about coding methodologies:
 Discuss languages such as:
 * Popular tech e.g. React, Node, C++
 * Powerful tech e.g. Java, Kotlin, Clojure
-* Progressive tech e.g. Elm, Elixir, Rust
+* Progressive tech e.g. Ember, Elixir, Rust
 * Mobile tech e.g. iOS, Android, React Native
 
 
@@ -291,27 +289,13 @@ Discuss project management such as:
 * Devops e.g. GitHub, CircleCI
 
 
-
 ## Implementation debates
 
-
-### Ranked feed vs. linear feed
-
-* "I wish there was a social network that could somehow avoid people competing to post the highest volume of popular content, so they could relax and focus on posting information about themselves that other people want to know. But even if you were somehow able to force people to just post about themselves, no third-party content, there are plenty of people who would make a meal of it by posting endless videos about their grooming regimen, their cooking, or cute stuff their cat does. It all just devolves into competing for attention."
 
 
 ### Original content vs. resharing
 
 * "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
-
-
-### Centralized vs. decentralized
-
-* "The only way social is going to work and be improved going forward is through decentralisation and taking our data out of the hands of a central repository where it can be used to target us, and is more vulnerable to breaches. Once we have that baseline the other problems can be solved by the communities themselves."
-
-* "The whole issue with the first decentralised networks at the moment are their usability and accessibility to the average person. There’s a lot of work to be done on this. There are 1000s of people tackling the problem globally from the protocol level to the user interfaces."
-
-* "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
 
 
 ### Mobile vs. desktop
