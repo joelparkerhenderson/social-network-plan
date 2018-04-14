@@ -11,8 +11,8 @@ Work in progress notes about how to build a social network for social good.
   * [Technical context](#technical-context)
   * [Social internet vs. social media](#social-internet-vs-social-media)
 * [Challenges](#challenges)
+  * [Open issues](#open-issues)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
-  * [Issues](#issues)
   * [Articles](#articles)
 * [Minimum Viable Product](#minimum-viable-product)
   * [Yes](#yes)
@@ -29,9 +29,7 @@ Work in progress notes about how to build a social network for social good.
   * [Data exchange](#data-exchange)
   * [Project management](#project-management)
 * [Implementation debates](#implementation-debates)
-  * [Ranked feed vs. linear feed](#ranked-feed-vs-linear-feed)
   * [Original content vs. resharing](#original-content-vs-resharing)
-  * [Centralized vs. decentralized](#centralized-vs-decentralized)
   * [Mobile vs. desktop](#mobile-vs-desktop)
 
 
