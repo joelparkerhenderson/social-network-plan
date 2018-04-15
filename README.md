@@ -11,9 +11,9 @@ Work in progress notes about how to build a social network for social good.
   * [Scope ](#scope-)
   * [Style](#style)
 * [Context](#context)
-  * [Broad context](#broad-context)
-  * [Advocacy context](#advocacy-context)
-  * [Technical context](#technical-context)
+  * [Breadth](#breadth)
+  * [Advocacy](#advocacy)
+  * [Technology](#technology)
 * [Challenges](#challenges)
   * [Open issues](#open-issues)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
@@ -41,9 +41,9 @@ Email joel@joelparkerhenderson.com, tweet [@joel_henderson](https://twitter.com/
 
 ### Work in progress
 
-This social network plan is a work in progress. 
+This social network plan is a work in progress, and likely to change as we learn more. 
 
-We will improve the plan as we learn more.
+We are actively making requests for comments, and we are adding these as we go.
 
 
 ## About this document
@@ -71,17 +71,20 @@ We use quotations with light editing for content, context, readability, consiste
 ## Context
 
 
-### Broad context
+### Breadth
 
 We are looking at the biggest social networks such as 
-[Facebook](https://facebook.com) and
-[Twitter](https://twitter.com).
+[Facebook](https://facebook.com),
+[Twitter](https://twitter.com),
+[LinkedIn](https://linkedin.com).
 
 We like websites that use technology for social good such as 
-[Wikipedia](https://wikipedia.org) and
-[Craigslist](https://craigslist.org).
+[Wikipedia](https://wikipedia.org),
+[Craigslist](https://craigslist.org),
+[Archive.org](https://archive.org).
 
-### Advocacy context
+
+### Advocacy
 
 We look to foundations such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
@@ -91,7 +94,8 @@ We look to FLOSS groups such as
 [Open Source Initiative (OSI)](http://opensource.org/) and 
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
 
-### Technical context
+
+### Technology
 
 We use social coding sites such as 
 [GitHub](https://github.com) and
@@ -196,35 +200,3 @@ Discuss planning methodologies:
 * Agile, lean, kanban, waterfall, etc.
 * Model, view, controller (MVC), data, context, interaction (DCI), etc. 
 * Functional code may be easier to create reliably and easier to scale up.
-
-
-### Full stack
-
-Discuss languages such as:
-* Popular tech e.g. React, Node, C++
-* Powerful tech e.g. Java, Kotlin, Clojure
-* Progressive tech e.g. Ember, Elixir, Rust
-* Mobile tech e.g. iOS, Android, React Native
-
-Discuss databases such as:
-* Relation-oriented e.g. MySQL, PostgreSQL, SQL Server
-* Document-oriented e.g. Mongo
-* Speed-oriented e.g. Redis, Memcached
-* Graph-oriented e.g. Fauna, Neo4J
-* Vendor-oriented e.g. Google Spanner, Amazon Aurora
-
-Discuss data exchange such as:
-* Resource-oriented e.g. REST-like
-* Graph-oriented e.g. GraphQL-like
-* Object-oriented e.g. RPC
-* Wire-oriented e.g. protocol buffers, thrift
-* Publishing-oriented e.g. RSS, Atom, Pub/Sub
-* API-oriented e.g. JSON API, OpenAPI, LD, RDF, SPARQL
-
-Discuss platform areas such as:
-* Mobile vs. desktop
-* Phone size vs. tablet size vs. laptop size
-* Distribution on Windows, Mac, Linux, iOS, Android, etc.
-* Distribution via Apple App Store, Google Play, etc.
-
-
