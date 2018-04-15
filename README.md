@@ -25,24 +25,24 @@ We believe social networks have significant benefits for people and society. How
 
 ### About
 
-Goal:
-* We want to explore the viability of new social network for social good. 
-* We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
+We want to explore the viability of new social network for social good. 
+* We want to explore the purpose i.e. why do this.
+* We want to explore the pragmatics i.e. how to do this.
 
-Scope:
-* We want this to be a friendly introduction that invites discussion.
+We want this to be a friendly introduction that invites discussion.
 * We do not want this to be a reference, or manifesto, or specification. 
 
-Feedback:
-* We welcome feedback, suggestions, and constructive criticism. 
-* Email joel@joelparkerhenderson.com, tweet [@joel_henderson](https://twitter.com/joel_henderson), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
+We welcome feedback, suggestions, and constructive criticism. 
+* Email: joel@joelparkerhenderson.com,
+* Twitter: [@joel_henderson](https://twitter.com/joel_henderson)
+* GitHub: [issues](https://github.com/joelparkerhenderson/social_network_plan/issues)
 
-Updates:
-* This plan is a work in progress, and likely to change as we learn more. 
+This plan is a work in progress and likely to change as we learn more. 
 * We are actively making requests for comments, and we add these as we go.
 
-Quotations:
-* We use quotations with light editing for content, context, readability, consistency, and anonymity.
+Editing:
+* We edit for active present tense, rather than journalistic passive past tense.
+* We edit quotations lightly for content, context, readability, and anonymity.
 
 
 ### Context
