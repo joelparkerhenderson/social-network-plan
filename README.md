@@ -7,13 +7,11 @@ Work in progress notes about how to build a social network for social good.
   * [About](#about)
   * [Context](#context)
 * [Challenges](#challenges)
-  * [Open issues](#open-issues)
+  * [Ideas](#ideas)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
-* [Implementation](#implementation)
-  * [Planning](#planning)
 
 
 ## Introduction
@@ -40,32 +38,33 @@ We edit for active present tense, and edit quotations lightly for content and an
 
 ### Context
 
-Overview:
-* We are looking at the biggest social networks such as 
+We are looking at the biggest social networks such as 
 [Facebook](https://facebook.com),
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com).
-* We like websites that use technology for social good such as 
+
+We like websites that use technology for social good such as 
 [Wikipedia](https://wikipedia.org),
 [Craigslist](https://craigslist.org),
 [Archive.org](https://archive.org).
 
-Advocacy:
-* We look to foundations such as 
+We look to foundations such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
 [Free Software Foundation (FSF)](http://fsf.org).
-* We look to FLOSS groups such as 
+
+We admire FLOSS groups such as 
 [Open Source Initiative (OSI)](http://opensource.org/) and 
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
 
-Technology:
-* We use social coding sites such as 
+We use social coding sites such as 
 [GitHub](https://github.com) and
 [StackOverflow](https://stackoverflow.com).
-* We use social identity tools such as 
+
+We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
-* We admire distributed social networks such as
+
+We admire distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
 
