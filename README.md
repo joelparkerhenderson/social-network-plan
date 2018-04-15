@@ -33,25 +33,25 @@ Work in progress notes about how to build a social network for social good.
 
 ### Abstract
 
-Social network sites, such as Facebook and Twitter, enable people to connect with each other, and share messages and media. We believe social network sites have significant benefits for people and society. 
+Social networks such as Facebook and Twitter enable people to connect with each other, share messages, and publish media. 
 
-However, we also believe that the big social networks have problems: data breaches, fake accounts, subpar accountability, advertising overemphasis, and closed restrictions. These problems harm people and society. 
+We believe social networks have significant benefits for people and society. However, we also believe that the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. 
 
-We therefore propose new social network ideas, such as a social network that is a not-for-profit (NFP), that uses free/open/libre source (FLOSS), that has accountability and transparancy, and that is for social good.
+We propose a social network plan that is not-for-profit (NFP), uses free/open/libre source (FLOSS), and is for social good.
 
 
 ### Feedback
 
-We welcome feedback, suggestions, and constructive criticism. You can contact us by email (joel@joelparkerhenderson.com), Twitter ([@joel_henderson](https://twitter.com/joel_henderson)), or by using GitHub issues or pull requests.
+We welcome feedback, suggestions, and constructive criticism. Email joel@joelparkerhenderson.com, tweet ([@joel_henderson](https://twitter.com/joel_henderson)), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
 
 
 ### About this document
 
-We are using this document a work in progress. We are improving this document as we learn. 
+This is a work in progress and will improve as we learn. 
 
-We intend this document to be a friendly introduction to the areas that we want to discuss; we do not intend for this document to be a comprehensive reference, or a literature review, or a societal manifesto, or a technological specification. We do welcome links to all these areas.
+We want this document to be a friendly introduction, rather than a comprehensive reference, or societal manifesto, or technical specification. 
 
-We want to use this document to explore the viability of new social network that helps people. Specifically, we want this document to look at both the purpose i.e. why do this, and also the pragmatics i.e. how to create this.
+We want to explore the viability of new social network for social good. We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
 
 We use quotations with light editing for content, context, readability, consistency, and anonymity.
 
@@ -89,15 +89,6 @@ We like decentralized distributed social networks such as
 [Patchwork](https://github.com/ssbc/patchwork).
 
 
-### Social internet vs. social media
-
-We see a useful distinction between social internet and social media:
-
- * "Social internet describes the general ways in which the global communication network and open protocols known as “the internet” enable good things like connecting people, spreading information, and supporting expression and activism."
-
-* "Social media, by contrast, describes the attempt to privatize these capabilities by large companies within the newly emerged algorithmic attention economy, a particularly virulent strain of the attention sector that leverages personal data and sophisticated algorithms to ruthlessly siphon users’ cognitive capital."
-
-
 ## Challenges
 
 
@@ -120,7 +111,7 @@ Open issues that are especially important to discuss:
 * (more?)
 
 <!--
-### Original content vs. resharing
+Original content vs. resharing
 
 * "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
 -->
