@@ -4,16 +4,8 @@ Work in progress notes about how to build a social network for social good.
 
 * [Introduction](#introduction)
   * [Abstract](#abstract)
-  * [Feedback](#feedback)
-  * [Work in progress](#work-in-progress)
-* [About this document](#about-this-document)
-  * [Goals](#goals)
-  * [Scope ](#scope-)
-  * [Style](#style)
-* [Context](#context)
-  * [Breadth](#breadth)
-  * [Advocacy](#advocacy)
-  * [Technology](#technology)
+  * [About](#about)
+  * [Context](#context)
 * [Challenges](#challenges)
   * [Open issues](#open-issues)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
@@ -22,7 +14,6 @@ Work in progress notes about how to build a social network for social good.
   * [Stories](#stories)
 * [Implementation](#implementation)
   * [Planning](#planning)
-  * [Full stack](#full-stack)
 
 
 ## Introduction
@@ -32,80 +23,56 @@ Work in progress notes about how to build a social network for social good.
 
 We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. We propose a social network plan that aims for social good, as a not-for-profit (NFP), using free/libre open source (FLOSS).
 
+### About
 
-### Feedback
+Goal:
+* We want to explore the viability of new social network for social good. 
+* We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
 
-We welcome feedback, suggestions, and constructive criticism. 
+Scope:
+* We want this to be a friendly introduction that invites discussion.
+* We do not want this to be a reference, or manifesto, or specification. 
 
-Email joel@joelparkerhenderson.com, tweet [@joel_henderson](https://twitter.com/joel_henderson), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
+Feedback:
+* We welcome feedback, suggestions, and constructive criticism. 
+* Email joel@joelparkerhenderson.com, tweet [@joel_henderson](https://twitter.com/joel_henderson), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
 
-### Work in progress
+Updates:
+* This plan is a work in progress, and likely to change as we learn more. 
+* We are actively making requests for comments, and we add these as we go.
 
-This social network plan is a work in progress, and likely to change as we learn more. 
-
-We are actively making requests for comments, and we are adding these as we go.
-
-
-## About this document
-
-
-### Goals
-
-We want to explore the viability of new social network for social good. 
-
-We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
+Quotations:
+* We use quotations with light editing for content, context, readability, consistency, and anonymity.
 
 
-### Scope 
+### Context
 
-We want this to be a friendly introduction that invites discussion.
-
-We do not want this to be a reference, or manifesto, or specification. 
-
-
-### Style
-
-We use quotations with light editing for content, context, readability, consistency, and anonymity.
-
-
-## Context
-
-
-### Breadth
-
-We are looking at the biggest social networks such as 
+Overview:
+* We are looking at the biggest social networks such as 
 [Facebook](https://facebook.com),
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com).
-
-We like websites that use technology for social good such as 
+* We like websites that use technology for social good such as 
 [Wikipedia](https://wikipedia.org),
 [Craigslist](https://craigslist.org),
 [Archive.org](https://archive.org).
 
-
-### Advocacy
-
-We look to foundations such as 
+Advocacy:
+* We look to foundations such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
 [Free Software Foundation (FSF)](http://fsf.org).
-
-We look to FLOSS groups such as 
+* We look to FLOSS groups such as 
 [Open Source Initiative (OSI)](http://opensource.org/) and 
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
 
-
-### Technology
-
-We use social coding sites such as 
+Technology:
+* We use social coding sites such as 
 [GitHub](https://github.com) and
 [StackOverflow](https://stackoverflow.com).
-
-We use social identity tools such as 
+* We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
-
-We admire distributed social networks such as
+* We admire distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
 
