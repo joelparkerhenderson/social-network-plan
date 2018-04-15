@@ -21,48 +21,38 @@ We propose a social network plan for social good, as a not-for-profit (NFP) with
 
 ## About
 
-We want to explore the viability of new social network for social good.
+About this document:
 
-We want to explore the purpose (i.e. why try this?) and pragmatics (i.e. how to do this?).
-
-We want this to be a friendly introduction that invites discussion.
-
-We welcome feedback and suggestions: use [issues](https://github.com/joelparkerhenderson/social_network_plan/issues), or email joel@joelparkerhenderson.com, or tweet [@joel_henderson](https://twitter.com/joel_henderson).
-
-This plan is a work in progress and likely to change as we learn more.
-
-We edit for active present tense, and edit quotations lightly for content and anonymity.
+* We want to explore the viability of new social network for social good.
+* We want to explore the purpose (i.e. why try this?) and pragmatics (i.e. how to do this?).
+* We want this to be a friendly introduction that invites discussion.
+* We welcome feedback and suggestions: use [issues](https://github.com/joelparkerhenderson/social_network_plan/issues) or joel@joelparkerhenderson.com or [@joel_henderson](https://twitter.com/joel_henderson)
+* This plan is a work in progress and likely to change as we learn more.
+* We edit for active present tense, and edit quotations lightly for content and anonymity.
 
 
 ## Context
 
-We are looking at the biggest social networks such as 
-[Facebook](https://facebook.com),
-[Twitter](https://twitter.com),
-[LinkedIn](https://linkedin.com).
-
-We like websites that use technology for social good such as 
-[Wikipedia](https://wikipedia.org),
-[Craigslist](https://craigslist.org),
-[Archive.org](https://archive.org).
-
-We look to foundations such as 
+Context of this project:
+* We are looking at the biggest social networks such as 
+[Facebook](https://facebook.com) and
+[Twitter](https://twitter.com).
+* We like websites that use technology for social good such as 
+[Wikipedia](https://wikipedia.org) and
+[Craigslist](https://craigslist.org).
+* We look to foundations such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
 [Free Software Foundation (FSF)](http://fsf.org).
-
-We admire FLOSS groups such as 
+* We admire FLOSS groups such as 
 [Open Source Initiative (OSI)](http://opensource.org/) and 
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
-
-We use social coding sites such as 
+* We use social coding sites such as 
 [GitHub](https://github.com) and
 [StackOverflow](https://stackoverflow.com).
-
-We use social identity tools such as 
+* We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
-
-We admire distributed social networks such as
+* We admire distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
 
