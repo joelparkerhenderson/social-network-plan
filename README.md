@@ -2,22 +2,13 @@
 
 Work in progress notes about how to build a social network for social good.
 
-* [Introduction](#introduction)
-  * [Abstract](#abstract)
-  * [About](#about)
-  * [Context](#context)
-* [Challenges](#challenges)
-  * [Ideas](#ideas)
-  * [How to describe a social network?](#how-to-describe-a-social-network-)
-* [User Experience](#user-experience)
-  * [Sign in](#sign-in)
-  * [Stories](#stories)
+* [Abstract](#abstract)
+* [About](#about)
+* [Context](#context)
+* [Ideas](#ideas)
 
 
-## Introduction
-
-
-### Abstract
+## Abstract
 
 We believe social networks have significant benefits for people and society. 
 
@@ -25,7 +16,8 @@ However, the big social networks suffer from major problems: data breaches, fake
 
 We propose a social network plan that aims for social good, as a not-for-profit (NFP), using free/libre open source (FLOSS).
 
-### About
+
+## About
 
 We want to explore the viability of new social network for social good.
 
@@ -40,7 +32,7 @@ This plan is a work in progress and likely to change as we learn more.
 We edit for active present tense, and edit quotations lightly for content and anonymity.
 
 
-### Context
+## Context
 
 We are looking at the biggest social networks such as 
 [Facebook](https://facebook.com),
@@ -73,12 +65,9 @@ We admire distributed social networks such as
 [Patchwork](https://github.com/ssbc/patchwork).
 
 
-## Challenges
+## Ideas
 
-
-### Ideas
-
-Ideas to discuss:
+Ideas that we want to explore in detail:
 
 * [**Funding**: advertisements, donations, subscriptions?](docs/ideas/funding.md)
 * [**Audiences**: general public, niche groups, special needs?](docs/ideas/audiences.md)
@@ -93,9 +82,9 @@ Ideas to discuss:
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
 * [**Topologies**: centralized, decentralized, distributed, federated?](docs/ideas/topologies.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
-* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implemenations/stacks.md)
-* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implemenations/projectmanagement.md)
 * [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
+* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implemenations/projectmanagement.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implemenations/stacks.md)
 
 <!--
 Original content vs. resharing
@@ -104,7 +93,7 @@ Original content vs. resharing
 -->
 
 
-### How to describe a social network?
+<!-- How to describe a social network?
 
 We see challenges in how people describe social networks; we suggest starter questions.
 
@@ -117,12 +106,15 @@ Examples:
 * **Code**: open source, closed source, etc.?
 * (more?)
 
+-->
 
 
-## User Experience
+<!--
+
+User Experience
 
 
-### Sign in
+Sign in
 
 Discuss sign in options via:
 * Email address and password
@@ -132,11 +124,11 @@ Discuss sign in options via:
 * Integrators e.g. Okta.com
 
 
-### Stories
+Stories
 
 Discuss stories:
 * Can we use RSS?
 * Can we use Atom?
 * Why/how to provide what companies say they want, e.g. ads, analytics, branding?
 
-
+-->
