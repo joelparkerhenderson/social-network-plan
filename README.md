@@ -73,26 +73,26 @@ Technology:
 ## Challenges
 
 
-### Open issues
+### Ideas
 
-Open issues that are especially important to discuss:
+Ideas to discuss:
 
-* [**Funding**: advertisements, donations, subscriptions?](docs/funding.md)
-* [**Audiences**: general public, niche groups, special needs?](docs/audiences.md)
-* [**Scopes**: benefits, features, minimum viable product?](docs/scopes.md)
-* [**Comparisons**: similarities/differences versus others?](docs/comparisons.md)
-* [**Names**: real names, fake names, no names?](docs/names.md)
-* [**Data**: who owns it, who uses it, who controls it?](docs/data.md)
-* [**Security**: spammers, hackers, masqueraders?](docs/security.md)
-* [**Communities**: how can we encourage people to help?](docs/communities.md)
-* [**Motivations**: gamification, extrinsic, intrinsic?](docs/motivations.md)
-* [**Niches**: music, meets, malls, mashups, more?](docs/niches.md)
-* [**Feeds**: linear, algorithmic, customizable?](docs/feeds.md)
-* [**Topologies**: centralized, decentralized, distributed, federated?](docs/topologies.md)
-* [**Routes**: how to reach people, places, items, resources?](docs/routes.md)
-* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/stacks.md)
-* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/stacks.md)
-* [**References**: articles, blogs, commentaries, etc.](docs/references.md)
+* [**Funding**: advertisements, donations, subscriptions?](docs/ideas/funding.md)
+* [**Audiences**: general public, niche groups, special needs?](docs/ideas/audiences.md)
+* [**Scopes**: benefits, features, minimum viable product?](docs/ideas/scopes.md)
+* [**Comparisons**: similarities/differences versus others?](docs/ideas/comparisons.md)
+* [**Names**: real names, fake names, no names?](docs/ideas/names.md)
+* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/data.md)
+* [**Security**: spammers, hackers, masqueraders?](docs/ideas/security.md)
+* [**Communities**: how can we encourage people to help?](docs/ideas/communities.md)
+* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
+* [**Niches**: music, meets, malls, mashups, more?](docs/ideas/niches.md)
+* [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
+* [**Topologies**: centralized, decentralized, distributed, federated?](docs/ideas/topologies.md)
+* [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implemenations/stacks.md)
+* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implemenations/projectmanagement.md)
+* [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
 
 <!--
 Original content vs. resharing
