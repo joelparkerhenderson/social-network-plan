@@ -126,6 +126,7 @@ Open issues that are especially important to discuss:
 * [**Feeds**: linear, algorithmic, customizable?](docs/feeds.md)
 * [**Topologies**: centralized, decentralized, distributed, federated?](docs/topologies.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/routes.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.?](docs/stacks.md)
 * [**References**: articles, blogs, commentaries, etc.?](docs/references.md)
 
 <!--

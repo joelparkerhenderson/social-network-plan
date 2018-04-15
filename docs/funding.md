@@ -1,6 +1,6 @@
-# Funds: advertisements, donations, subscriptions?
+# Funding: advertisements, donations, subscriptions?
 
-Discussing potential funds, such as who pays for the social network, using ideas such as advertisements, donations, subscriptions.
+Discussing potential funding ideas, such as advertisements, donations, subscriptions.
 
 Example quotations to consider:
 
