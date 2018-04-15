@@ -211,7 +211,7 @@ Examples:
 
 * Email addresses: <a href="mailto:alice@example.com">alice@example.com</a>
 * Phone number: <a href="tel:1-415-317-2700">1-415-317-2700</a>
-* Website page: <a href="http://reddit.com">http://reddit.com</a>
+* Web page: <a href="http://reddit.com">http://reddit.com</a>
 
 We use the term "meta-route" to generically describe a route that contains another route. 
 
@@ -219,7 +219,7 @@ Examples where each website URL route contains another route:
 
 * Email address: <a href="https://www.example.com/alice@example.com">https://www.example.com/alice@example.com</a>
 * Phone number: <a href="https://www.example.com/1-415-317-2700">https://www.example.com/1-415-317-2700</a>
-* Website page: <a href="https://example.com/reddit.com">https://example.com/reddit.com</a>
+* Web page: <a href="https://example.com/reddit.com">https://example.com/reddit.com</a>
 
 Brainstorms:
 * We speculate that meta-routes may make it easier, faster, and better, to create a user-friendly social network that also connects to other networks.
