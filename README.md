@@ -8,7 +8,8 @@ Work in progress notes about how to build a social network for social good.
   * [About this document](#about-this-document)
 * [Baseline](#baseline)
   * [Social context](#social-context)
-  * [Technical context](#technical-context)
+* [Advocacy context](#advocacy-context)
+  * [Implementation context](#implementation-context)
 * [Challenges](#challenges)
   * [Open issues](#open-issues)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
@@ -63,16 +64,23 @@ We are looking at the biggest social networks such as
 [Facebook](https://facebook.com) and
 [Twitter](https://twitter.com).
 
-We like websites using technology for social common good such as 
+We like websites that use technology for social common good such as 
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
 
-We look to technology advocacy groups such as 
+
+### Advocacy context
+
+We look to freedom foundations such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
-[Open Source Initiative (OSI)](http://https://opensource.org/).
+[Free Software Foundation (FSF)](http://fsf.org).
+
+We look to FLOSS groups such as 
+[Open Source Initiative (OSI)](http://opensource.org/) and 
+[Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
 
 
-### Technical context
+### Implementation context
 
 We are frequent users of social coding sites such as 
 [GitHub](https://github.com) and
