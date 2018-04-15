@@ -1,6 +1,8 @@
 # Social Network Plan
 
-Work in progress notes about how to build a social network for social good.
+<img src="README.png" width="300" height="180" alt="Social network icons">
+
+How to build a social network for social good.
 
 * [Abstract](#abstract)
 * [About](#about)
