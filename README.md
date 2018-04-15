@@ -5,23 +5,21 @@ Work in progress notes about how to build a social network for social good.
 * [Introduction](#introduction)
   * [Abstract](#abstract)
   * [Feedback](#feedback)
-  * [About this document](#about-this-document)
-* [Baseline](#baseline)
-  * [Social context](#social-context)
-* [Advocacy context](#advocacy-context)
-  * [Implementation context](#implementation-context)
+  * [Work in progress](#work-in-progress)
+* [About this document](#about-this-document)
+  * [Goals](#goals)
+  * [Scope ](#scope-)
+  * [Style](#style)
+* [Context](#context)
+  * [Broad context](#broad-context)
+  * [Advocacy context](#advocacy-context)
+  * [Technical context](#technical-context)
 * [Challenges](#challenges)
   * [Open issues](#open-issues)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
-  * [Articles](#articles)
-* [Minimum Viable Product](#minimum-viable-product)
-  * [Yes, likely in scope](#yes-likely-in-scope)
-  * [Maybe, possibly in scope](#maybe-possibly-in-scope)
-  * [No, not in scope](#no-not-in-scope)
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
-  * [Routes and meta-routes](#routes-and-meta-routes)
 * [Implementation](#implementation)
   * [Planning](#planning)
   * [Full stack](#full-stack)
@@ -32,46 +30,60 @@ Work in progress notes about how to build a social network for social good.
 
 ### Abstract
 
-Social networks such as Facebook and Twitter enable people to connect with each other, share messages, and publish media. 
-
-We believe social networks have significant benefits for people and society. However, we also believe that the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. 
-
-We propose a social network plan that is not-for-profit (NFP), uses free/libre open source (FLOSS), and aims for social good.
+We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. We propose a social network plan that aims for social good, as a not-for-profit (NFP), using free/libre open source (FLOSS).
 
 
 ### Feedback
 
-We welcome feedback, suggestions, and constructive criticism. This is a work in progress and will improve as we learn. 
+We welcome feedback, suggestions, and constructive criticism. 
 
 Email joel@joelparkerhenderson.com, tweet [@joel_henderson](https://twitter.com/joel_henderson), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
 
+### Work in progress
 
-### About this document
+This social network plan is a work in progress. 
 
-We want this document to be a friendly introduction, rather than a reference, or manifesto, or specification. 
+We will improve the plan as we learn more.
 
-We want to explore the viability of new social network for social good. We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
+
+## About this document
+
+
+### Goals
+
+We want to explore the viability of new social network for social good. 
+
+We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
+
+
+### Scope 
+
+We want this to be a friendly introduction that invites discussion.
+
+We do not want this to be a reference, or manifesto, or specification. 
+
+
+### Style
 
 We use quotations with light editing for content, context, readability, consistency, and anonymity.
 
 
-## Baseline
+## Context
 
 
-### Social context
+### Broad context
 
 We are looking at the biggest social networks such as 
 [Facebook](https://facebook.com) and
 [Twitter](https://twitter.com).
 
-We like websites that use technology for social common good such as 
+We like websites that use technology for social good such as 
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
 
-
 ### Advocacy context
 
-We look to freedom foundations such as 
+We look to foundations such as 
 [Electronic Frontier Foundation (EFF)](http://eff.org/) and
 [Free Software Foundation (FSF)](http://fsf.org).
 
@@ -79,18 +91,17 @@ We look to FLOSS groups such as
 [Open Source Initiative (OSI)](http://opensource.org/) and 
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
 
+### Technical context
 
-### Implementation context
-
-We are frequent users of social coding sites such as 
+We use social coding sites such as 
 [GitHub](https://github.com) and
 [StackOverflow](https://stackoverflow.com).
 
-We are users of social identity tools such as 
+We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
 
-We like decentralized distributed social networks such as
+We admire distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
 
@@ -102,19 +113,20 @@ We like decentralized distributed social networks such as
 
 Open issues that are especially important to discuss:
 
-* [**Funding**: advertisements, donations, subscriptions?](https://github.com/joelparkerhenderson/social_network_plan/issues/1)
-* [**Audience**: general public, niche groups, special needs?](https://github.com/joelparkerhenderson/social_network_plan/issues/2)
-* [**Scope**: benefits, features, minimum viable product?](https://github.com/joelparkerhenderson/social_network_plan/issues/3)
-* [**Comparisons**: similarities/differences versus others?](https://github.com/joelparkerhenderson/social_network_plan/issues/4)
-* [**Names**: real names, fake names, no names?](https://github.com/joelparkerhenderson/social_network_plan/issues/5)
-* [**Data**: who owns it, who uses it, who controls it?](https://github.com/joelparkerhenderson/social_network_plan/issues/6)
-* [**Security**: spammers, hackers, masqueraders?](https://github.com/joelparkerhenderson/social_network_plan/issues/7)
-* [**Community**: how can we encourage people to help?](https://github.com/joelparkerhenderson/social_network_plan/issues/8)
-* [**Motivation**: gamification, extrinsic, intrinsic?](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
-* [**Niches**: music, meets, malls, mashups, more?](https://github.com/joelparkerhenderson/social_network_plan/issues/10)
-* [**Feeds**: linear, algorithmic, customizable?](https://github.com/joelparkerhenderson/social_network_plan/issues/11)
-* [**Topology**: centralized, decentralized, distributed, federated?](https://github.com/joelparkerhenderson/social_network_plan/issues/12)
-* (more?)
+* [**Funding**: advertisements, donations, subscriptions?](docs/funding.md)
+* [**Audiences**: general public, niche groups, special needs?](docs/audiences.md)
+* [**Scopes**: benefits, features, minimum viable product?](docs/scopes.md)
+* [**Comparisons**: similarities/differences versus others?](docs/comparisons.md)
+* [**Names**: real names, fake names, no names?](docs/names.md)
+* [**Data**: who owns it, who uses it, who controls it?](docs/data.md)
+* [**Security**: spammers, hackers, masqueraders?](docs/security.md)
+* [**Communities**: how can we encourage people to help?](docs/communities.md)
+* [**Motivations**: gamification, extrinsic, intrinsic?](docs/motivations.md)
+* [**Niches**: music, meets, malls, mashups, more?](docs/niches.md)
+* [**Feeds**: linear, algorithmic, customizable?](docs/feeds.md)
+* [**Topologies**: centralized, decentralized, distributed, federated?](docs/topologies.md)
+* [**Routes**: how to reach people, places, items, resources?](docs/routes.md)
+* [**References**: articles, blogs, commentaries, etc.?](docs/references.md)
 
 <!--
 Original content vs. resharing
@@ -137,50 +149,6 @@ Examples:
 * (more?)
 
 
-### Articles
-
-We are reading articles and posts by social network advocates such as:
-* [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
-* [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
-* [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
-* [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
-* [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
-* [Human Connection](https://human-connection.org)
-* (more?)
-
-
-## Minimum Viable Product
-
-We believe that to be successful, the best path is to create the simplest-possible social network that people will actually use. This is a minimum viable product (MVP).
-
-
-### Yes, likely in scope
-
-Capabilities that we believe must be in scope:
-* Join: e.g. sign up, sign in, sign out, manage your data, delete your account
-* Post: e.g. with a combination of title, text, link, image
-* Wall: e.g. a profile page, news feed, timeline, calendar
-* Item: e.g. a person, place, event, organization
-
-
-### Maybe, possibly in scope
-
-Capabilities that we like, yet don't know if they must be in scope:
-* Mark: e.g. like, love, star, upvote, downvote, flag, tag
-* Blob: e.g. photo, video, audio, document
-* Team: e.g. group, circle, room, forum, channel, categories
-* Chat: e.g. comment, message, mail
-
-
-### No, not in scope
-
-Capabilities that we want to defer to future scope:
-* Mobile apps
-* Old browsers
-* Live streams
-* Notifications
-* Payments
-
 
 ## User Experience
 
@@ -201,30 +169,6 @@ Discuss stories:
 * Can we use RSS?
 * Can we use Atom?
 * Why/how to provide what companies say they want, e.g. ads, analytics, branding?
-
-
-### Routes and meta-routes
-
-We use the term "route" to generically describe a way to reach people, places, items, etc.
-
-Examples:
-
-* Email addresses: <a href="mailto:alice@example.com">alice@example.com</a>
-* Phone number: <a href="tel:1-415-317-2700">1-415-317-2700</a>
-* Web page: <a href="http://reddit.com">http://reddit.com</a>
-
-We use the term "meta-route" to generically describe a route that contains another route. 
-
-Examples where each website URL route contains another route:
-
-* Email address: <a href="https://www.example.com/alice@example.com">https://www.example.com/alice@example.com</a>
-* Phone number: <a href="https://www.example.com/1-415-317-2700">https://www.example.com/1-415-317-2700</a>
-* Web page: <a href="https://example.com/reddit.com">https://example.com/reddit.com</a>
-
-Brainstorms:
-* We speculate that meta-routes may make it easier, faster, and better, to create a user-friendly social network that also connects to other networks.
-* For example meta-routes can automatically give each person their own page based on their email address, or on their multiple email addresses; the person doesn't have to choose a new username or compete with other people for usernames.
-* For example, meta-routes may improve people's trust in the network, because the URL contains more information that can be automatically verified, such as verifying the person's email address by sending an email, or telephone number by sending a text message, or website page by having a webmaster add a page identifier.
 
 
 ## Implementation
