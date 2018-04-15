@@ -90,8 +90,9 @@ Open issues that are especially important to discuss:
 * [**Feeds**: linear, algorithmic, customizable?](docs/feeds.md)
 * [**Topologies**: centralized, decentralized, distributed, federated?](docs/topologies.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/routes.md)
-* [**Stacks**: languages, frameworks, databases, interfaces, etc.?](docs/stacks.md)
-* [**References**: articles, blogs, commentaries, etc.?](docs/references.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/stacks.md)
+* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/stacks.md)
+* [**References**: articles, blogs, commentaries, etc.](docs/references.md)
 
 <!--
 Original content vs. resharing
@@ -136,27 +137,3 @@ Discuss stories:
 * Why/how to provide what companies say they want, e.g. ads, analytics, branding?
 
 
-## Implementation
-
-
-### Planning
-
-Discuss broad goals:
-* This project is more akin to an ambitious web app, less akin to a blogging site.
-* We value participation by many people and organizations.
-* The security needs to be bulletproof and independently-verifiable.
-
-Discuss organizational areas:
-* Prefer truly free technology over corporate-restricted technology.
-* Prefer more-welcoming communities over less-welcoming communities.
-* Prefer agile over waterfall.
-
-Discuss project management such as:
-* Planning e.g. Asana, Trello
-* Dicussion e.g. IRC, Slack
-* Prototyping e.g. Balsamiq, Photoshop
-
-Discuss planning methodologies:
-* Agile, lean, kanban, waterfall, etc.
-* Model, view, controller (MVC), data, context, interaction (DCI), etc. 
-* Functional code may be easier to create reliably and easier to scale up.
