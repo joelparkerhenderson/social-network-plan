@@ -35,19 +35,19 @@ Social networks such as Facebook and Twitter enable people to connect with each 
 
 We believe social networks have significant benefits for people and society. However, we also believe that the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. 
 
-We propose a social network plan that is not-for-profit (NFP), uses free/open/libre source (FLOSS), and is for social good.
+We propose a social network plan that is not-for-profit (NFP), uses free/libre open source (FLOSS), and aims for social good.
 
 
 ### Feedback
 
-We welcome feedback, suggestions, and constructive criticism. Email joel@joelparkerhenderson.com, tweet ([@joel_henderson](https://twitter.com/joel_henderson)), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
+We welcome feedback, suggestions, and constructive criticism. This is a work in progress and will improve as we learn. 
+
+Email joel@joelparkerhenderson.com, tweet [@joel_henderson](https://twitter.com/joel_henderson), or comment in our [issues](https://github.com/joelparkerhenderson/social_network_plan/issues).
 
 
 ### About this document
 
-This is a work in progress and will improve as we learn. 
-
-We want this document to be a friendly introduction, rather than a comprehensive reference, or societal manifesto, or technical specification. 
+We want this document to be a friendly introduction, rather than a reference, or manifesto, or specification. 
 
 We want to explore the viability of new social network for social good. We want to explore the purpose i.e. why do this, and the pragmatics i.e. how to do this.
 
