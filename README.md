@@ -14,7 +14,7 @@ We believe social networks have significant benefits for people and society.
 
 However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. 
 
-We propose a social network plan that aims for social good, as a not-for-profit (NFP), using free/libre open source (FLOSS).
+We propose a social network plan for social good, as a not-for-profit (NFP) with free/libre open source (FLOSS).
 
 
 ## About
