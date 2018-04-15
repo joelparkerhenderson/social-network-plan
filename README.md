@@ -2,7 +2,7 @@
 
 <img src="README.png" width="300" height="180" alt="Social network icons">
 
-How to build a social network for social good.
+What's needed to build a social network for social good?
 
 * [Abstract](#abstract)
 * [About](#about)
