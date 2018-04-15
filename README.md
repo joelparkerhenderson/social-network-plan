@@ -9,10 +9,8 @@ Work in progress notes about how to build a social network for social good.
 * [Baseline](#baseline)
   * [Social context](#social-context)
   * [Technical context](#technical-context)
-  * [Social internet vs. social media](#social-internet-vs-social-media)
 * [Challenges](#challenges)
   * [Open issues](#open-issues)
-  * [Original content vs. resharing](#original-content-vs-resharing)
   * [How to describe a social network?](#how-to-describe-a-social-network-)
   * [Articles](#articles)
 * [Minimum Viable Product](#minimum-viable-product)
@@ -22,7 +20,7 @@ Work in progress notes about how to build a social network for social good.
 * [User Experience](#user-experience)
   * [Sign in](#sign-in)
   * [Stories](#stories)
-  * [Meta-routes](#meta-routes)
+  * [Routes and meta-routes](#routes-and-meta-routes)
 * [Implementation](#implementation)
   * [Planning](#planning)
   * [Full stack](#full-stack)
@@ -197,7 +195,7 @@ Discuss stories:
 * Why/how to provide what companies say they want, e.g. ads, analytics, branding?
 
 
-### Meta-routes
+### Routes and meta-routes
 
 We use the term "routes" to generically describe ways to reach people, places, items, etc.
 
