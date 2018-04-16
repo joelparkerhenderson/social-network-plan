@@ -2,13 +2,6 @@
 
 <img src="README.png" width="300" height="180" alt="Social network icons">
 
-What's needed to build a social network for social good?
-
-* [Abstract](#abstract)
-* [About](#about)
-* [Context](#context)
-* [Ideas](#ideas)
-
 
 ## Abstract
 
