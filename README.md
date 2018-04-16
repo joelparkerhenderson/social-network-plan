@@ -24,8 +24,10 @@ About this document:
 
 Context of this project:
 * We are looking at the biggest social networks such as 
-[Facebook](https://facebook.com) and
-[Twitter](https://twitter.com).
+[Facebook](https://facebook.com),
+[Twitter](https://twitter.com),
+[LinkedIn](https://linkedin.com),
+.
 * We like websites that use technology for social good such as 
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
