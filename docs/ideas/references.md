@@ -4,7 +4,12 @@
 
 Discuss references, such as links to highly-relevant articles, blogs, commentaries, forums, papers, research reports, etc.
 
-Examples:
+### Quotations
+
+Quotations to consider:
+
+
+### Examples
 
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
 * [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)

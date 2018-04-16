@@ -4,7 +4,10 @@
 
 Discuss names, such as whether a user should be required to use their real name, or can optionally use a fake name or pseudonym, or can optionally use an anonymous name such as a random token.
 
-Example quotations to consider:
+
+### Quotations
+
+Quotations to consider:
 
 * "We want people to know who they are connecting to, and we want you to have an authentic experience. So we require you to use your real name, as it would be listed on your credit card, government ID, workplace ID, or student ID."
 

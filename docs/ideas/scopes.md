@@ -4,7 +4,10 @@
 
 Discuss ideas for scopes, such as benefits and features, and what's needed for a minimum viable product.
 
-Example quotations to consider:
+
+### Quotations
+
+Quotations to consider:
 
 * "What features and benefits are necessary to get someone to try a new social network? What can we build as directly as possible, to try our plan right now?"
 

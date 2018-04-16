@@ -5,7 +5,9 @@
 Discuss potential topologies of the social network, such as whether it is essentially centralized (as are Facebook and Twitter) or decentralized/distributed/federated (as are Mastodon and Secure Scuttlebutt).
 
 
-Example quotations to consider:
+### Quotations
+
+Quotations to consider:
 
 * "The only way social is going to work and be improved going forward is through decentralisation and taking our data out of the hands of a central repository where it can be used to target us, and is more vulnerable to breaches. Once we have that baseline the other problems can be solved by the communities themselves."
 
@@ -16,11 +18,17 @@ Example quotations to consider:
 
 * "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
 
-References:
+
+### Wordbook
+
+Wordbook of terminology:
+
 * [Distributed social network - Wikipedia](https://en.wikipedia.org/wiki/Distributed_social_network)
 * [Distributed Social Networks - P2P Foundation](https://wiki.p2pfoundation.net/Distributed_Social_Network_Projects)
 
-Commentary:
+
+### Commentary
+
 * [Thoughts on federated social networks - by Matt Lee](https://medium.com/@mattl/thoughts-on-federated-social-networks-9f2962481911)
 * [Decentralized social networks sound great - too bad they'll never work - by Wired)](https://www.wired.com/story/decentralized-social-networks-sound-great-too-bad-theyll-never-work/)
 
