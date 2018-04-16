@@ -72,7 +72,7 @@ Ideas that we want to explore in detail:
 * [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
 * [**Niches**: music, meets, malls, mashups, more?](docs/ideas/niches.md)
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
-* [**Topologies**: centralized, decentralized, distributed, federated?](docs/ideas/topologies.md)
+* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topologies.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
 * [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
 * [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implemenations/projectmanagement.md)

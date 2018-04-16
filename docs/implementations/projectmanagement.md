@@ -11,11 +11,9 @@ Discuss project expectations such as:
 * Prefer truly free technology over corporate-restricted technology.
 * Prefer more-welcoming communities over less-welcoming communities.
 * Prefer agile over waterfall.
-
-Discuss project timelines such as:
 * Prefer continuous delivery rather than using sprints.
 * Prefer faster releases of small items over slower releases of big items.
-* Prefer to use throttles (e.g. feature flags) over all-user releases.
+* Prefer to use delivery throttles over all-or-none releases.
 
 Discuss project tools such as:
 * Planning e.g. Asana, Trello

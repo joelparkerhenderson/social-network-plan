@@ -1,4 +1,4 @@
-# Topologies: centralized, decentralized, distributed, federated?
+# Topologies: centralize, decentralize, distribute, federate?
 
 [Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/12)
 
