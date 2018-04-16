@@ -28,7 +28,7 @@ Context of this project:
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com).
 * We are looking at newer social networks such as
-[MeWe](https:://mewe.com) and Vero (https://www.vero.co/).
+[MeWe](https:://mewe.com), [Vero](https://www.vero.co/), [Ello](https://ello.co/).
 * We admire distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
@@ -47,6 +47,7 @@ Context of this project:
 * We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
+* We give to crowdfunding such as [Patreon](https://www.patreon.com), [GoFundMe](https://www.gofundme.com/), [Kicksarter](https://www.kickstarter.com).
 
 
 ## Ideas
