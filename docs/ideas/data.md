@@ -4,5 +4,9 @@
 
 Discuss data areas, such as who owns data, who uses it and how, who controls it and where it goes?
 
+### Quotations
 
+Quotations to consider:
+
+* TODO
 

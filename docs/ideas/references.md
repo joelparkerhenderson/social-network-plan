@@ -8,6 +8,8 @@ Discuss references, such as links to highly-relevant articles, blogs, commentari
 
 Quotations to consider:
 
+* TODO
+
 
 ### Examples
 

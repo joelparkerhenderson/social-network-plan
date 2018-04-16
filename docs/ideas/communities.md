@@ -4,3 +4,9 @@
 )
 Discuss communities and community engagement ideas, such as how we can encourage people and groups, to help in a variety of ways, such as funding, creating, sharing, and coding?
 
+
+### Quotations
+
+Quotations to consider:
+
+* TODO
