@@ -2,6 +2,8 @@
 
 Discuss ideas for implementation stacks, such as programming languages, application frameworks, databases and stores, application programming interfaces, etc.
 
+[Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/16)
+
 Discuss programming languages and their frameworks such as:
 
 * Popular tech e.g. React, Node, Ruby/Rails, C++
