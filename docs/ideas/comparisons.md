@@ -12,6 +12,11 @@ Quotations to consider:
 * "The social startups that have struck it big in the post-Facebook era have all started by carving out a different niche. That difference can’t just be about a site’s back-end architecture or business model, as with Diaspora (an open-source Facebook) or App.net (a Twitter without ads). The product itself has to fulfill a fresh purpose for its users, like sharing snazzy smartphone snapshots (Instagram), networking and advancing their careers (LinkedIn), or showing off their taste in fashion, food, and design (Pinterest)."
 
 
+### References
+
+* [As controversy swirls, social network Vero is closing in on 3 million users](https://www.theverge.com/2018/3/2/17067610/vero-social-media-ayman-hariri-downloads)
+
+
 ### Example ideas
 
 Example ideas from real people to consider:
