@@ -23,6 +23,12 @@ Wordbook of terminology:
 * Funding via subscriptions: a user pays a recurring fee to the social network. 
 * Funding via pay-per-use: a user pays each time they use a social network function.
 * Funding via data sales: a data consumer pays the social network for access to data.
+* Funding via self-hosting: each user or group hosts its own systems, then federates them.
 * Funding via freemium: there is a free version and a paid version. 
 * Funding via hybrid: there are multiple kinds of funding.
+
+Advertising choices:
+
+* User-targeting: an ad is chosen based on the user, such as the user's demographics.
+* Page-targeting: an ad is chosen based on the content that's on the page, such as search results.
 
