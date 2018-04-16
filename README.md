@@ -26,8 +26,12 @@ Context of this project:
 * We are looking at the biggest social networks such as 
 [Facebook](https://facebook.com),
 [Twitter](https://twitter.com),
-[LinkedIn](https://linkedin.com),
-.
+[LinkedIn](https://linkedin.com).
+* We are looking at newer social networks such as
+[MeWe](https:://mewe.com) and Vero (https://www.vero.co/).
+* We admire distributed social networks such as
+[Mastodon](https://mastodon.social) and
+[Patchwork](https://github.com/ssbc/patchwork).
 * We like websites that use technology for social good such as 
 [Wikipedia](https://wikipedia.org) and
 [Craigslist](https://craigslist.org).
@@ -43,9 +47,6 @@ Context of this project:
 * We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
 [Keybase](keybase.io).
-* We admire distributed social networks such as
-[Mastodon](https://mastodon.social) and
-[Patchwork](https://github.com/ssbc/patchwork).
 
 
 ## Ideas
