@@ -55,7 +55,7 @@ Context of this project:
 
 ## Ideas
 
-Ideas that we want to explore in detail:
+Ideas that we are exploring - please let us know your comments.
 
 * [**Funding**: advertisements, donations, subscriptions?](docs/ideas/funding.md)
 * [**Audiences**: general public, niche groups, special needs?](docs/ideas/audiences.md)
