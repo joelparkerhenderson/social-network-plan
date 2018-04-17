@@ -64,7 +64,7 @@ Ideas that we are exploring - please let us know your comments.
 * [**Security**: spammers, hackers, masqueraders?](docs/ideas/security.md)
 * [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
-* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topologies.md)
+* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topology.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
 * [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
 * [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implementations/projectmanagement.md)
