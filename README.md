@@ -67,8 +67,8 @@ Ideas that we are exploring - please let us know your comments.
 * [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topologies.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
 * [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
-* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implemenations/projectmanagement.md)
-* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implemenations/stacks.md)
+* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implementations/projectmanagement.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implementations/stacks.md)
 
 <!--
 Original content vs. resharing
