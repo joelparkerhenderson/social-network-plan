@@ -55,7 +55,7 @@ Context of this project:
 Ideas that we are exploring - please let us know your comments.
 
 * [**Funding**: advertisements, donations, subscriptions?](docs/ideas/funding.md)
-* [**Audiences**: general public, niche groups, special needs?](docs/ideas/audiences.md)
+* [**Audiences**: general public, niches, special interests?](docs/ideas/audiences.md)
 * [**Scopes**: benefits, features, minimum viable product?](docs/ideas/scopes.md)
 * [**Comparisons**: similarities/differences versus others?](docs/ideas/comparisons.md)
 * [**Names**: real names, fake names, no names?](docs/ideas/names.md)
@@ -63,7 +63,6 @@ Ideas that we are exploring - please let us know your comments.
 * [**Security**: spammers, hackers, masqueraders?](docs/ideas/security.md)
 * [**Communities**: how can we encourage people to help?](docs/ideas/communities.md)
 * [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
-* [**Niches**: music, meets, malls, mashups, more?](docs/ideas/niches.md)
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
 * [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topologies.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
