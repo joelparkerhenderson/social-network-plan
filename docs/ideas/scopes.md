@@ -14,6 +14,14 @@ Quotations to consider:
 * "Facebook has the most valuable triumvirate of requirements for a successful service: a huge audience, an huge pile of money, and huge group of smart employees. The result is a social network funded by advertising and virtual goods. They are, in a very real sense, the ultimate example of the minimum viable product: there is nothing there. Peek behind the curtain and the social network is held up only by its connections."
 
 
+### References
+
+References to read:
+
+* [Minimum viable product (wikipedia.org)](https://en.wikipedia.org/wiki/Minimum_viable_product)
+* [An MVP is not a Cheaper Product, It’s about Smart Learning (steveblank.com)](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+
+
 ## Minimum Viable Product
 
 We believe that to be successful, the best path is to create the simplest-possible social network that people will actually use. This is a minimum viable product (MVP).
