@@ -54,22 +54,30 @@ Context of this project:
 
 Ideas that we are exploring - please let us know your comments.
 
+Big ideas:
+
 * [**Audiences**: general public, niches, special interests?](docs/ideas/audiences.md)
 * [**Comparisons**: similarities/differences versus others?](docs/ideas/comparisons.md)
 * [**Communities**: how can we encourage people to help?](docs/ideas/communities.md)
+* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
 * [**Funding**: advertisements, donations, subscriptions?](docs/ideas/funding.md)
+* [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
+
+Implementation ideas:
+
 * [**Scopes**: benefits, features, minimum viable product?](docs/ideas/scopes.md)
 * [**Names**: real names, fake names, no names?](docs/ideas/names.md)
-* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/data.md)
-* [**Security**: spammers, hackers, masqueraders?](docs/ideas/security.md)
-* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
-* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topology.md)
+* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/data.md)
 * [**Policies**: privacy, disclosure, conduct?](docs/ideas/policies.md)
+
+Technology ideas:
+
+* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topology.md)
 * [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
-* [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
 * [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implementations/projectmanagement.md)
 * [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implementations/stacks.md)
+* [**Security**: spammers, hackers, masqueraders?](docs/ideas/security.md)
 
 <!--
 Original content vs. resharing
