@@ -4,7 +4,8 @@
 
 Examples:
 
-* https://policies.google.com/privacy
+* [Google - privacy policy](https://policies.google.com/privacy)
+* [Survey Monkey - privacy policy](https://www.surveymonkey.com/mp/legal/privacy-policy)
 
 Wordbook:
 
