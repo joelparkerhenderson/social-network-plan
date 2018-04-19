@@ -32,3 +32,50 @@ Wordbook of terminology:
 * [Thoughts on federated social networks - by Matt Lee](https://medium.com/@mattl/thoughts-on-federated-social-networks-9f2962481911)
 * [Decentralized social networks sound great - too bad they'll never work - by Wired)](https://www.wired.com/story/decentralized-social-networks-sound-great-too-bad-theyll-never-work/)
 
+
+## Considerations
+
+Do distributed social networks exacerbate the problems that Facebook has been seeing so much backlash against?
+
+
+### API exploits
+
+The Facebook Cambridge Analytica issue was caused by APIs that are too open. 
+
+Question: For distributed systems, are there more ways to exploit the APIs and gather data on users?
+
+
+### Accountability
+
+There is a clear issue with Facebook's accountability. 
+
+Distributed run on multiple servers, with multiple owners, and may also be open source.
+
+Does this lead to any areas of zero accountability?
+
+
+### GDPR
+
+How does a distributed system do GDPR compliance?
+
+
+### Usability
+
+Some of the problems with Facebook are more about usability and clarifying how things work to users, for instance the scandal with people giving away access to their private messages.
+
+Open source software and distributed software tends to be much harder to use.
+
+How to make an open source and/or distributed social network easier to sue?
+
+
+### Future-proofing
+
+Will any future concern/issue be harder to resolve if there are many different instances running decentralized social networks?
+
+
+### Security
+
+Using AI to detect abusive content or spot fake news is much harder if you only have a subset of the data. 
+
+Does it becomes harder to address these concerns in a distributed setting?
+
