@@ -1,25 +1,9 @@
-# Policies: privacy, disclosure, conduct?
-
-
-[Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/20)
-
-
-## Privacy policies
-
-
-References:
-
-* [Hundreds of millions impacted by new Yahoo, AOL, privacy policies that collect emails, texts, photos](https://www.theblaze.com/news/2018/04/15/hundreds-of-millions-impacted-by-new-yahoo-aol-privacy-policies-that-collect-emails-texts-photos)
-
-Examples:
-
-* https://policies.google.com/privacy
-
-
 ## Disclosure policies
 
+[Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/22)
 
-### Coordinated disclosure 
+
+### Coordinated disclosure
 
 Coordinated disclosure, sometimes a.k.a. responsible disclosure, explains how people can report potential security issues, and work together to address the issues.
 
@@ -49,15 +33,3 @@ Excerpts:
 
 * 5. A pledge that if a third party initiates legal action, Dropbox will make it clear when a researcher was acting in compliance with the policy (and therefore authorized by us).
 
-
-## Conduct policies
-
-Conduct policies, a.k.a. code of conduct agreements, explain how an organization expects people to interact, and how to use group norms to provide better collaboration, more respect, and happier participants.
-
-Articles:
-
-* [How to Develop a Code of Conduct for Your Company](https://www.thebalancecareers.com/code-of-conduct-1918088)
-
-Examples:
-
-* http://rubykaigi.org/2016/code-of-conduct/

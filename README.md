@@ -69,7 +69,12 @@ Implementation ideas:
 * [**Names**: real names, fake names, no names?](docs/ideas/names.md)
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
 * [**Data**: who owns it, who uses it, who controls it?](docs/ideas/data.md)
-* [**Policies**: privacy, disclosure, conduct?](docs/ideas/policies.md)
+
+Policy ideas:
+
+* [**Conduct policies**: code of conduct, community guidelines, etc.](docs/policies/conduct_policies.md)
+* [**Privacy policies**: user rights, transparency guidelines, etc.](docs/policies/privacy_policies.md)
+* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/policies/disclosure_policies.md)
 
 Technology ideas:
 
