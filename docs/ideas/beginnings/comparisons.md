@@ -11,6 +11,8 @@ Quotations to consider:
 
 * "The social startups that have struck it big in the post-Facebook era have all started by carving out a different niche. That difference can’t just be about a site’s back-end architecture or business model, as with Diaspora (an open-source Facebook) or App.net (a Twitter without ads). The product itself has to fulfill a fresh purpose for its users, like sharing snazzy smartphone snapshots (Instagram), networking and advancing their careers (LinkedIn), or showing off their taste in fashion, food, and design (Pinterest)."
 
+* "The problem with Facebook is that it holds way too much personal information about a person - phone numbers, emails, a person's likes/dislikes, hometown, current location, etc, and because society has been 'programmed' to share so much about themselves, no thanks to social networks like Facebook that promotes building your 'profile'. In fact, strip away all that personal information and have people share their thoughts and their dinner photos and what you get is just Twitter, Instagram, Snapchat or a blogging platform."
+
 
 ### References
 

@@ -19,6 +19,9 @@ Quotations to consider:
 * "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
 
 
+* "On a distributed network you replicate data only with people you choose. Since you're not going to add a government (or an ad company) to your friend list, they won't have your data. Private communications are encrypted and flowing directly to the recipient, so there's no port that agencies can tap into to listen. There won't be any big data to analyze, since data is spread across the network. Backup is easy, it's just a folder. Fake news never gets promoted, since there are no paid promotions. Spam is a non-issue since there are no advertisers. There's no way to get into your feed than through your friends. There's no server or central storage, so employee misuse is not an issue. And you can have as many identities as you choose, there won't be a mandatory real name policy."
+
+
 ### Wordbook
 
 Wordbook of terminology:
@@ -38,11 +41,25 @@ Wordbook of terminology:
 Do distributed social networks exacerbate the problems that Facebook has been seeing so much backlash against?
 
 
-### API exploits
+### Exploits
 
 The Facebook Cambridge Analytica issue was caused by APIs that are too open. 
 
-Question: For distributed systems, are there more ways to exploit the APIs and gather data on users?
+For distributed systems, are there more ways to exploit the APIs and gather data on users?
+
+Some technologies believe that distributed systems can use more-protectable protocols and more-protectable encryption. 
+
+Comments:
+
+* "Scuttlebutt is "fully encrypted", and thus the API is more locked down than Facebook/etc."
+
+* "Scuttlebutt is not at all "fully encrypted", and it's fairly trivial to spider and download just about everything; the hardest part is the first foothold (which can be found posted various places, including the official docs on ssb), from there, downloading the entire "social web" it has can be done with the "main client" by basically changing a single config value."
+
+* "Scuttlebutt is not "fully encrypted" as is, yet can use point-to-point encryption between nodes, and can also be optionally extended to use public-private keys for exchanging secure messages."
+
+* "TOR is fully encrypted, but there are somewhat regular vulnerability reports about various parts of the stack. Including criticial vulnerabilities that can and have been exploited by nation states, for example."
+
+* "The attack surface for Scuttlebutt is much larger than for Facebook, and I trust Facebook's security team to audit and patch much more than I trust any random friend."
 
 
 ### Accountability
@@ -53,10 +70,31 @@ Distributed run on multiple servers, with multiple owners, and may also be open 
 
 Does this lead to any areas of zero accountability?
 
+Comments:
+
+* "If I had a magic wand, I'd solve this by splitting Facebook into an infrastructure-and-core-data non-profit and one or more for-profit companies that are building tools or interfaces on that platform."
+
+* "I think there is a natural monopoly for some aspects of this, which is why Facebook is so hard to quit. But I don't think the whole thing need be in private, for-profit hands. Mozilla shows that a nonprofit can be a good steward of important web assets, with much stronger user advocacy than for-profit companies normally do. Doing something like that for identity and interconnect between messaging and micropublishing providers seems much more robust than pure decentralization to me, which I expect would have the same failure mode as OpenSocial [1], where forces pushing toward natural monopoly are basically unchecked."
+
 
 ### GDPR
 
 How does a distributed system do GDPR compliance?
+
+Comments:
+
+* "A distributed social network is in a worse position than Facebook because there's no one to have responsibility to be accountable. As far as I know it doesn't matter if you're a person or a company, if you're collecting data, it's something you can be liable for. So in a distributed system, all parties who maintain the data sources would be liable."
+
+* "As far as GDPR goes, you're right that a distributed network has different issues, because you're specifically choosing people to send your messages to. However, having a mechanism to delete your messages on other people's systems when they sync would probably go a long way."
+
+* "The GDPR argument is a bit moot because Scuttlebutt is no different than sharing pictures in gossip style (a.k.a. memes). If one of your childhood pictures happens to become the new meme, there's little hope that GDPR enforcement would suffice to de facto delete it from the internet: from Reddit, from Imgur, from independent websites, from Torrent, etc. The same is with Scuttlebutt, but data is primarily shared between friends without contracts, not from people to a particular company. GDPR applies to institutions."
+
+
+### Login
+
+Comments:
+
+* "A lot of people like using Facebook as a login system. Maybe WebAuthn will help with that since it’s a valid use but most people didn’t see what else they were agreeing to."
 
 
 ### Usability
@@ -78,4 +116,24 @@ Will any future concern/issue be harder to resolve if there are many different i
 Using AI to detect abusive content or spot fake news is much harder if you only have a subset of the data. 
 
 Does it becomes harder to address these concerns in a distributed setting?
+
+Comments:
+
+* "In a decentralized world, there's no one who has access to holistically examine automated access and detect shady activity. In a decentralized world, everything is essentially a third-party app.""
+
+
+### Policies
+
+Comments:
+
+* "We fail to consider policy when thinking about centralized/federated services. Centralized services provide strong, regular policy adherence across the network, whereas federated services provide weak, irregular policy adherence across the network. Centralized services can effectively silence a bad actor. They may also silence a good actor, but generally only under external pressure from government. Federated services have little or not ability to silence bad actors across the network, though individual instances may effectively silence "bad" actors. However in this capacity "bad" is not well understood and can simply mean the instance administrator does not like the person the silence. Individual instances may also give voice to bad actors."
+
+
+### Notifications
+
+Comments:
+
+* "I’ve seen a lot of people use are notifications / invites. e.g. most big gaming communities are bad experiences but you can bootstrap your friends into a better group. That seems harder to change and it’s definitely a real need.
+
+
 

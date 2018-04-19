@@ -9,4 +9,6 @@ Discuss communities and community engagement ideas, such as how we can encourage
 
 Quotations to consider:
 
-* TODO
+* "Anything that takes more than 3 steps to get it running it's going to keep people out. And if you keep people out, you don't have a social network, at least not anything like facebook where your grandma and people you went to school with but never met (or pretend you never met) are."
+
+
