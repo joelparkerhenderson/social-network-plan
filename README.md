@@ -54,79 +54,32 @@ Context of this project:
 
 Ideas that we are exploring - please let us know your comments.
 
-Big ideas:
+Beginnings:
 
-* [**Audiences**: general public, niches, special interests?](docs/ideas/audiences.md)
-* [**Comparisons**: similarities/differences versus others?](docs/ideas/comparisons.md)
-* [**Communities**: how can we encourage people to help?](docs/ideas/communities.md)
-* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/motivations.md)
-* [**Funding**: advertisements, donations, subscriptions?](docs/ideas/funding.md)
-* [**References**: articles, blogs, commentaries, etc.](docs/ideas/references.md)
+* [**Audiences**: general public, niches, special interests?](docs/ideas/beginnings/audiences.md)
+* [**Comparisons**: similarities/differences versus others?](docs/ideas/beginnings/comparisons.md)
+* [**Communities**: how can we encourage people to help?](docs/ideas/beginnings/communities.md)
+* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/beginnings/motivations.md)
+* [**References**: articles, blogs, commentaries, etc.](docs/ideas/beginnings/references.md)
 
-Implementation ideas:
+Implementations:
 
-* [**Scopes**: benefits, features, minimum viable product?](docs/ideas/scopes.md)
-* [**Names**: real names, fake names, no names?](docs/ideas/names.md)
-* [**Feeds**: linear, algorithmic, customizable?](docs/ideas/feeds.md)
-* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/data.md)
+* [**Scopes**: benefits, features, minimum viable product?](docs/ideas/implementations/scopes.md)
+* [**Names**: real names, fake names, no names?](docs/ideas/implementations/names.md)
+* [**Feeds**: linear, algorithmic, customizable?](docs/ideas/implementations/feeds.md)
+* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/implementations/data.md)
+* [**Funding**: advertisements, donations, subscriptions?](docs/ideas/implementations/funding.md)
 
-Policy ideas:
+Policies:
 
-* [**Conduct policies**: code of conduct, community guidelines, etc.](docs/policies/conduct_policies.md)
-* [**Privacy policies**: user rights, transparency guidelines, etc.](docs/policies/privacy_policies.md)
-* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/policies/disclosure_policies.md)
+* [**Conduct policies**: code of conduct, community guidelines, etc.](docs/ideas/policies/conduct_policies.md)
+* [**Privacy policies**: user rights, transparency guidelines, etc.](docs/ideas/policies/privacy_policies.md)
+* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/ideas/policies/disclosure_policies.md)
 
-Technology ideas:
+Technologies:
 
-* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/topology.md)
-* [**Routes**: how to reach people, places, items, resources?](docs/ideas/routes.md)
-* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/implementations/projectmanagement.md)
-* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/implementations/stacks.md)
-* [**Security**: spammers, hackers, masqueraders?](docs/ideas/security.md)
-
-<!--
-Original content vs. resharing
-
-* "Reshares are part and parcel of a community - even before the days of the Internet. For many, gossip is part of socializing. A friend posted that he's just getting married. People will want to spread the word. How can they without reshares? Rewrite it themselves? Resharing is simply part of usual human interaction."
--->
-
-
-<!-- How to describe a social network?
-
-We see challenges in how people describe social networks; we suggest starter questions.
-
-Examples:
-
-* **Benefits**: give me reasons to try your product.
-* **Privacy**: what is your privacy policy, including sharing with 3rd party?
-* **Platform**: is your product aiming to be a platform, API, plugin, integation, etc.?
-* **Access**: mobile, web, desktop, native, etc.?
-* **Code**: open source, closed source, etc.?
-* (more?)
-
--->
-
-
-<!--
-
-User Experience
-
-
-Sign in
-
-Discuss sign in options via:
-* Email address and password
-* Multi-factor e.g. mobile phone SMS, Google Authenticator app
-* Providers e.g. Google, Facebook, LinkedIn
-* Protocols e.g. OAuth, SAML
-* Integrators e.g. Okta.com
-
-
-Stories
-
-Discuss stories:
-* Can we use RSS?
-* Can we use Atom?
-* Why/how to provide what companies say they want, e.g. ads, analytics, branding?
-
--->
+* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/technologies/topologies.md)
+* [**Routes**: how to reach people, places, items, resources?](docs/ideas/technologies/routes.md)
+* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/ideas/technologies/projectmanagement.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/ideas/technologies/stacks.md)
+* [**Security**: spammers, hackers, masqueraders?](docs/ideas/technologies/security.md)
