@@ -32,3 +32,11 @@ Advertising choices:
 * User-targeting: an ad is chosen based on the user, such as the user's demographics.
 * Page-targeting: an ad is chosen based on the content that's on the page, such as search results.
 
+
+### Comments
+
+"Lobby government to provide $X annually per citizen that gets allocated to the user's choice to pay for their social network platform of choice; this would have to be tied to specific rules/guidelines. E.g. mandatory tax money that the person distributes how they want. Whether this will lead to the desired outcome, I'm unsure - people might still just want to give their money to Facebook or a platform who takes that money + still does less-than-good or less-than-desired behaviours, requiring regulation and oversight, costing taxpayers anyway. It might also incentivize private dollars to be more willing to invest in platforms if there's that money per-user that would be available."
+
+"Create enough value that people - or enough people - are willing to pay; this ties into freemium model or subscription model."
+
+"Investment should come from a combination of sources: - From government -- if you can't convince a government to invest, then why not? - From philanthropic -- who will have a longer horizon than traditional VC, and who will hopefully require a higher burden on evidence that the leader(s) are good people. - From traditional VC -- who can benefit by reducing risk from the other funding sources, and to leverage the experienced VC's network and resources."

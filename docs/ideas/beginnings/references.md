@@ -14,6 +14,12 @@ Recommendations:
 * [Strategies for building political social networks](https://techcrunch.com/2013/04/19/strategies-for-building-political-social-networks/)
 * [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
 
+The independent web:
+
+* [Identity and the Independent Web (by John Battelle, battellemedia.com, 2010-10-21)](http://battellemedia.com/archives/2010/10/identity_and_the_independent_web_.php)
+* [The Independent Web, How Can It Work? (by Matt Myers, mattamyers.tumblr.com, 2011-01-23)](http://mattamyers.tumblr.com/post/2903098250/the-independent-web-how-can-it-work)
+* [The Independent Web (by Fred Wilson, avc.com, 2011-01-23)](https://avc.com/2011/01/the-independent-web/)
+
 Funding:
 
 * [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
