@@ -46,7 +46,7 @@ Context of this project:
 [StackOverflow](https://stackoverflow.com).
 * We use social identity tools such as 
 [GPG](https://www.gnupg.org/) and
-[Keybase](keybase.io).
+[Keybase](https://keybase.io).
 * We give to crowdfunding such as [Patreon](https://www.patreon.com), [GoFundMe](https://www.gofundme.com/), [Kickstarter](https://www.kickstarter.com).
 
 
