@@ -28,7 +28,7 @@ Context of this project:
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com).
 * We are looking at newer social networks such as
-[MeWe](https:://mewe.com), [Vero](https://www.vero.co/), [Ello](https://ello.co/).
+[MeWe](https://mewe.com), [Vero](https://www.vero.co/), [Ello](https://ello.co/).
 * We admire distributed social networks such as
 [Mastodon](https://mastodon.social) and
 [Patchwork](https://github.com/ssbc/patchwork).
