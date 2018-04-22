@@ -18,8 +18,9 @@ Quotations to consider:
 
 * "Social protocols are the answer. They probably won't be the first answer. You need some of these networks with real traction (or at least one huge one) so they can derive a protocol from the greatest common factors between them. To preemptively make a protocol sans popular implementation has little value and often ends in low adoption. As we've learned, the success of a protocol is more about its popularity than its presence or quality. So I say let these networks gestate and once the market (of people, not money) starts picking winners, then begin your abstraction. And for those (of us) working on solutions to this problem space now, keep going. You don't need a committee or standards doc or whatever. You just need an awesome implementation."
 
-
 * "On a distributed network you replicate data only with people you choose. Since you're not going to add a government (or an ad company) to your friend list, they won't have your data. Private communications are encrypted and flowing directly to the recipient, so there's no port that agencies can tap into to listen. There won't be any big data to analyze, since data is spread across the network. Backup is easy, it's just a folder. Fake news never gets promoted, since there are no paid promotions. Spam is a non-issue since there are no advertisers. There's no way to get into your feed than through your friends. There's no server or central storage, so employee misuse is not an issue. And you can have as many identities as you choose, there won't be a mandatory real name policy."
+
+* "Facebook is centralized. Diaspora is federated; the individual nodes (to which thousands of users are connected) will have far fewer resources to secure themselves than a behemoth like FaceBook, and also have issues of uptime, badwidth, etc. ScuttleButt is peer to peer, somewhat like torrents but for data feeds; more specifically, it's partially peer to peer because it uses gossip, so at times your peer might be a semi-centralized server, and at other times it could be a peer."
 
 
 ### Wordbook
@@ -33,6 +34,7 @@ Wordbook of terminology:
 ### Commentary
 
 * [Thoughts on federated social networks - by Matt Lee](https://medium.com/@mattl/thoughts-on-federated-social-networks-9f2962481911)
+* [Scuttlebutt, a decentralized alternative to Facebook](https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/)
 * [Decentralized social networks sound great - too bad they'll never work - by Wired)](https://www.wired.com/story/decentralized-social-networks-sound-great-too-bad-theyll-never-work/)
 
 

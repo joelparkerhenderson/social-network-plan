@@ -8,7 +8,20 @@ Discuss references, such as links to highly-relevant articles, blogs, commentari
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
 * [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
 * [The Search for the Anti-Facebook](http://www.slate.com/articles/technology/future_tense/2014/10/ello_diaspora_and_the_anti_facebook_why_alternative_social_networks_can.html)
+
+Recommendations:
+
 * [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
+
+Funding:
+
 * [Y Combinator’s nonprofit funding](https://blog.ycombinator.com/what-y-combinator-looks-for-in-nonprofits/)
+
+Potentials:
+
 * [Human Connection](https://human-connection.org)
+
+Retrospectives:
+
+* [What Happened to the Facebook Killer? It's Complicated. (2012-10-02)](https://web.archive.org/web/20121009223506/https://motherboard.vice.com/2012/10/2/what-happened-to-the-facebook-killer-it-s-complicated)
 
