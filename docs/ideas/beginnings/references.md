@@ -24,5 +24,7 @@ Potentials:
 
 Retrospectives:
 
-* [What Happened to the Facebook Killer? It's Complicated. (2012-10-02)](https://web.archive.org/web/20121009223506/https://motherboard.vice.com/2012/10/2/what-happened-to-the-facebook-killer-it-s-complicated)
+* [What Happened to Diaspora, the Facebook Killer? It's Complicated. (2012-10-02)](https://web.archive.org/web/20121009223506/https://motherboard.vice.com/2012/10/2/what-happened-to-the-facebook-killer-it-s-complicated)
+* [Sean Parker unveils Brigade, a social network for politics](https://www.politico.com/story/2015/06/brigade-politics-social-network-sean-parker-119108)
+
 
