@@ -11,6 +11,7 @@ Discuss references, such as links to highly-relevant articles, blogs, commentari
 
 Recommendations:
 
+* [Strategies for building political social networks](https://techcrunch.com/2013/04/19/strategies-for-building-political-social-networks/)
 * [Let's verify real people, not real names](https://bford.github.io/2015/10/07/names.html)
 
 Funding:
