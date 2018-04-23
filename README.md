@@ -14,10 +14,10 @@ We want to explore the viability of new social network that aims for more social
 
 About this document:
 
-* We want this to be a friendly introduction that invites discussion.
 * We welcome feedback and suggestions: use [issues](https://github.com/joelparkerhenderson/social_network_plan/issues) or joel@joelparkerhenderson.com or [@joel_henderson](https://twitter.com/joel_henderson)
+* We want this to be a friendly introduction that invites discussion.
 * This plan is a work in progress and likely to change as we learn more.
-* We edit for active present tense, and edit quotations lightly for content and anonymity.
+* We edit quotations lightly for content and anonymity.
 
 
 ## Context
