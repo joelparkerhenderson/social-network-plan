@@ -51,9 +51,10 @@ Context of this project includes areas such as:
 [GPG](https://www.gnupg.org/),
 [Keybase](https://keybase.io).
 * Protocols: 
+[XMPP](https://en.wikipedia.org/wiki/XMPP),
+[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub),
 [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging),
-[Signal](https://en.wikipedia.org/wiki/Signal_Protocol),
-[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).
+[Signal](https://en.wikipedia.org/wiki/Signal_Protocol).
 * Crowdfunding: 
 [Patreon](https://www.patreon.com), 
 [GoFundMe](https://www.gofundme.com/), 
