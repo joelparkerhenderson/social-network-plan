@@ -25,7 +25,8 @@ Context of this project includes areas such as:
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com),
 [Instagram](https://instagram.com),
-[Pinterest](https://pinterest.com).
+[Pinterest](https://pinterest.com),
+[Snap](https://snap.com/).
 * Smaller social networks:
 [MeWe](https://mewe.com), 
 [Vero](https://www.vero.co/), 
@@ -34,6 +35,10 @@ Context of this project includes areas such as:
 [Mastodon](https://mastodon.social),
 [Patchwork](https://github.com/ssbc/patchwork),
 [GNU Social](https://gnu.io/).
+* Messaging:
+[WhatsApp](https://www.whatsapp.com/),
+[WeChat](https://www.wechat.com/),
+[Slack](https://www.slack.com/).
 * Websites that use technology for social good:
 [Wikipedia](https://wikipedia.org),
 [Craigslist](https://craigslist.org).
