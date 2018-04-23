@@ -23,11 +23,12 @@ About this document:
 ## Context
 
 Context of this project includes areas such as:
-* Big social networks: 
+* Bigger social networks: 
 [Facebook](https://facebook.com),
 [Twitter](https://twitter.com),
-[LinkedIn](https://linkedin.com).
-* Emerging social networks:
+[LinkedIn](https://linkedin.com),
+[Instagram](https://instagram.com).
+* Smaller social networks:
 [MeWe](https://mewe.com), 
 [Vero](https://www.vero.co/), 
 [Ello](https://ello.co/).
