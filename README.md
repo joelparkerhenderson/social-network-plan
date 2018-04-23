@@ -17,6 +17,40 @@ About this document:
 * We edit quotations lightly for content and anonymity.
 
 
+## Ideas
+
+Ideas that we are exploring - please let us know your comments.
+
+Beginnings:
+
+* [**Audiences**: general public, niches, special interests?](docs/ideas/beginnings/audiences.md)
+* [**Comparisons**: similarities/differences versus others?](docs/ideas/beginnings/comparisons.md)
+* [**Communities**: how can we encourage people to help?](docs/ideas/beginnings/communities.md)
+* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/beginnings/motivations.md)
+* [**References**: articles, blogs, commentaries, etc.](docs/ideas/beginnings/references.md)
+
+Implementations:
+
+* [**Scopes**: benefits, features, minimum viable product?](docs/ideas/implementations/scopes.md)
+* [**Names**: real names, fake names, no names?](docs/ideas/implementations/names.md)
+* [**Feeds**: linear, algorithmic, customizable?](docs/ideas/implementations/feeds.md)
+* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/implementations/data.md)
+* [**Funding**: advertisements, donations, subscriptions?](docs/ideas/implementations/funding.md)
+
+Policies:
+
+* [**Conduct policies**: code of conduct, community guidelines, etc.](docs/ideas/policies/conduct_policies.md)
+* [**Privacy policies**: user rights, transparency guidelines, etc.](docs/ideas/policies/privacy_policies.md)
+* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/ideas/policies/disclosure_policies.md)
+
+Technologies:
+
+* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/technologies/topologies.md)
+* [**Routes**: how to reach people, places, items, resources?](docs/ideas/technologies/routes.md)
+* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/ideas/technologies/projectmanagement.md)
+* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/ideas/technologies/stacks.md)
+* [**Security**: spammers, hackers, masqueraders?](docs/ideas/technologies/security.md)
+
 ## Context
 
 Context of this project includes areas such as:
@@ -65,37 +99,3 @@ Context of this project includes areas such as:
 [GoFundMe](https://www.gofundme.com/), 
 [Kickstarter](https://www.kickstarter.com).
 
-
-## Ideas
-
-Ideas that we are exploring - please let us know your comments.
-
-Beginnings:
-
-* [**Audiences**: general public, niches, special interests?](docs/ideas/beginnings/audiences.md)
-* [**Comparisons**: similarities/differences versus others?](docs/ideas/beginnings/comparisons.md)
-* [**Communities**: how can we encourage people to help?](docs/ideas/beginnings/communities.md)
-* [**Motivations**: gamification, extrinsic, intrinsic?](docs/ideas/beginnings/motivations.md)
-* [**References**: articles, blogs, commentaries, etc.](docs/ideas/beginnings/references.md)
-
-Implementations:
-
-* [**Scopes**: benefits, features, minimum viable product?](docs/ideas/implementations/scopes.md)
-* [**Names**: real names, fake names, no names?](docs/ideas/implementations/names.md)
-* [**Feeds**: linear, algorithmic, customizable?](docs/ideas/implementations/feeds.md)
-* [**Data**: who owns it, who uses it, who controls it?](docs/ideas/implementations/data.md)
-* [**Funding**: advertisements, donations, subscriptions?](docs/ideas/implementations/funding.md)
-
-Policies:
-
-* [**Conduct policies**: code of conduct, community guidelines, etc.](docs/ideas/policies/conduct_policies.md)
-* [**Privacy policies**: user rights, transparency guidelines, etc.](docs/ideas/policies/privacy_policies.md)
-* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/ideas/policies/disclosure_policies.md)
-
-Technologies:
-
-* [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/technologies/topologies.md)
-* [**Routes**: how to reach people, places, items, resources?](docs/ideas/technologies/routes.md)
-* [**Project management**: priorities, expectations, timelines, tools, etc.](docs/ideas/technologies/projectmanagement.md)
-* [**Stacks**: languages, frameworks, databases, interfaces, etc.](docs/ideas/technologies/stacks.md)
-* [**Security**: spammers, hackers, masqueraders?](docs/ideas/technologies/security.md)
