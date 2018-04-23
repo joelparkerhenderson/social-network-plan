@@ -27,6 +27,11 @@ Funding:
 Potentials:
 
 * [Human Connection](https://human-connection.org)
+* [Fediverse](https://fediverse.gitlab.io/)
+
+Hacker News:
+
+* [Fediverse – Federated social networks running on free open software](https://news.ycombinator.com/item?id=16667050)
 
 Retrospectives:
 
