@@ -5,17 +5,14 @@
 
 ## Abstract
 
-We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. 
-
-We want to explore the viability of new social network that aims for more social good. This document is a request for comments and ideas about funding, audiences, scopes, niches, security, and more.
+We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. We want to explore the viability of new social network that aims for more social good. This document is a request for comments.
 
 
 ## About
 
 About this document:
 
-* We welcome feedback and suggestions: use [issues](https://github.com/joelparkerhenderson/social_network_plan/issues) or joel@joelparkerhenderson.com or [@joel_henderson](https://twitter.com/joel_henderson)
-* We want this to be a friendly introduction that invites discussion.
+* We welcome comments: use [issues](https://github.com/joelparkerhenderson/social_network_plan/issues) or joel@joelparkerhenderson.com or [@joel_henderson](https://twitter.com/joel_henderson)
 * This plan is a work in progress and likely to change as we learn more.
 * We edit quotations lightly for content and anonymity.
 
