@@ -27,7 +27,8 @@ Context of this project includes areas such as:
 [Facebook](https://facebook.com),
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com),
-[Instagram](https://instagram.com).
+[Instagram](https://instagram.com),
+[Pinterest](https://pinterest.com).
 * Smaller social networks:
 [MeWe](https://mewe.com), 
 [Vero](https://www.vero.co/), 
