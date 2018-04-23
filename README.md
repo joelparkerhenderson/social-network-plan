@@ -33,8 +33,7 @@ Context of this project includes areas such as:
 * Distributed social networks:
 [Mastodon](https://mastodon.social),
 [Patchwork](https://github.com/ssbc/patchwork),
-[GNU Social](https://gnu.io/),
-[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).
+[GNU Social](https://gnu.io/).
 * Websites that use technology for social good:
 [Wikipedia](https://wikipedia.org),
 [Craigslist](https://craigslist.org).
@@ -51,6 +50,9 @@ Context of this project includes areas such as:
 * Social identity:
 [GPG](https://www.gnupg.org/),
 [Keybase](https://keybase.io).
+* Protocols: 
+[Signal](https://en.wikipedia.org/wiki/Signal_Protocol),
+[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).
 * Crowdfunding: 
 [Patreon](https://www.patreon.com), 
 [GoFundMe](https://www.gofundme.com/), 
