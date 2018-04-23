@@ -34,6 +34,7 @@ Context of this project includes areas such as:
 * Distributed social networks:
 [Mastodon](https://mastodon.social),
 [Patchwork](https://github.com/ssbc/patchwork),
+[GNU Social](https://gnu.io/),
 [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).
 * Websites that use technology for social good:
 [Wikipedia](https://wikipedia.org),
