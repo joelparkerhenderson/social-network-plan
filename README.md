@@ -22,32 +22,39 @@ About this document:
 
 ## Context
 
-Context of this project:
-* We are looking at the biggest social networks such as 
+Context of this project includes areas such as:
+* Big social networks: 
 [Facebook](https://facebook.com),
 [Twitter](https://twitter.com),
 [LinkedIn](https://linkedin.com).
-* We are looking at newer social networks such as
-[MeWe](https://mewe.com), [Vero](https://www.vero.co/), [Ello](https://ello.co/).
-* We admire distributed social networks such as
-[Mastodon](https://mastodon.social) and
-[Patchwork](https://github.com/ssbc/patchwork).
-* We like websites that use technology for social good such as 
-[Wikipedia](https://wikipedia.org) and
+* Emerging social networks:
+[MeWe](https://mewe.com), 
+[Vero](https://www.vero.co/), 
+[Ello](https://ello.co/).
+* Distributed social networks:
+[Mastodon](https://mastodon.social),
+[Patchwork](https://github.com/ssbc/patchwork),
+[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).
+* Websites that use technology for social good:
+[Wikipedia](https://wikipedia.org),
 [Craigslist](https://craigslist.org).
-* We look to foundations such as 
-[Electronic Frontier Foundation (EFF)](http://eff.org/) and
+[Archive](https://archive.org).
+* Foundations:
+[Electronic Frontier Foundation (EFF)](http://eff.org/),
 [Free Software Foundation (FSF)](http://fsf.org).
-* We admire FLOSS groups such as 
-[Open Source Initiative (OSI)](http://opensource.org/) and 
+* FLOSS groups:
+[Open Source Initiative (OSI)](http://opensource.org/),
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
-* We use social coding sites such as 
-[GitHub](https://github.com) and
+* Social coding sites:
+[GitHub](https://github.com),
 [StackOverflow](https://stackoverflow.com).
-* We use social identity tools such as 
-[GPG](https://www.gnupg.org/) and
+* Social identity:
+[GPG](https://www.gnupg.org/),
 [Keybase](https://keybase.io).
-* We give to crowdfunding such as [Patreon](https://www.patreon.com), [GoFundMe](https://www.gofundme.com/), [Kickstarter](https://www.kickstarter.com).
+* Crowdfunding: 
+[Patreon](https://www.patreon.com), 
+[GoFundMe](https://www.gofundme.com/), 
+[Kickstarter](https://www.kickstarter.com).
 
 
 ## Ideas
