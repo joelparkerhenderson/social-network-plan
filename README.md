@@ -70,6 +70,13 @@ Context of this project includes areas such as:
 [Mastodon](https://mastodon.social),
 [Patchwork](https://github.com/ssbc/patchwork),
 [GNU Social](https://gnu.io/).
+* Blogs:
+[Wordpress](https://wordpress.com),
+[Medium](https://medium.com).	
+* Static site generators:
+[Hugo](https://gohugo.io/),
+[Metalsmith](www.metalsmith.io/),
+[Jekyll](https://jekyllrb.com/).
 * Chat:
 [WhatsApp](https://www.whatsapp.com/),
 [WeChat](https://www.wechat.com/),
