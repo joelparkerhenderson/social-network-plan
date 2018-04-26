@@ -43,6 +43,11 @@ Policies:
 * [**Privacy policies**: user rights, transparency guidelines, etc.](docs/ideas/policies/privacy_policies.md)
 * [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/ideas/policies/disclosure_policies.md)
 
+Possibilities:
+
+* [**Scuttlebutt**: Secure Scuttlebutt (SSB) distributed messaging](docs/ideas/possibilities/scuttlebutt.md)
+
+
 Technologies:
 
 * [**Topologies**: centralize, decentralize, distribute, federate?](docs/ideas/technologies/topologies.md)
