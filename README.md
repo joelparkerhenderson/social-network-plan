@@ -45,6 +45,7 @@ Policies:
 
 Possibilities:
 
+* [**Matrix and Riot**: secure decentralized communication and client](docs/ideas/possibilities/matrix-and-riot.md)
 * [**Scuttlebutt**: Secure Scuttlebutt (SSB) distributed messaging](docs/ideas/possibilities/scuttlebutt.md)
 
 
