@@ -49,3 +49,8 @@ Versus LinkedIn:
 * I want to feature my skills, rather than feature my resume or CV.
 * I want to follow company news, yet not get overwhelmed.
 * I want to automatically connect to all my coworkers e.g. enterprise address book.
+
+
+### Brands
+
+"Facebook is brandable, Diaspora - I'm still not sure I pronounce it properly. App.net was a good attempt, a little more brandable than Diaspora - at least with technologists, however not necessarily consumer-friendly; their mission and fight, similarly to how Evan from Snapchat pushed back against what was essentially Mark bullying (sell to me or we'll copy you); ~7 years ago I wrote a blog post after Fred Wilson suggested I turn a comment into its own post, related to The Independent Web - and the requirement that that will require sharing, which means not being greedy, and not trying to capture 100% of value."

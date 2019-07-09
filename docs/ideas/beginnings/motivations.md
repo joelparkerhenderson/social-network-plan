@@ -2,7 +2,7 @@
 
 [Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
 
-Discuss motivations withinsocial networks, such as gamification, extrinsic motivation, intrinsic motivation, etc.
+Discuss motivations within social networks, such as gamification, extrinsic motivation, intrinsic motivation, etc.
 
 
 ### Quotations
