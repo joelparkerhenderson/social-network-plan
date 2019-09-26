@@ -4,6 +4,7 @@
 
 Discuss references, such as links to highly-relevant articles, blogs, commentaries, forums, papers, research reports, etc.
 
+* [We Need a PBS for Social Media - Instead of breaking up Facebook, America should create a public alternative.](https://www.nytimes.com/2019/09/24/opinion/public-broadcasting-facebook.html)
 * [Facebook is a tyranny – and our government isn't built to stop it](https://www.theguardian.com/commentisfree/2018/apr/18/facebook-tyranny-government-regulation-what-we-need)
 * [Social media and its discontents by Cal Newport](http://calnewport.com/blog/2018/03/20/on-social-media-and-its-discontents/)
 * [Paradigm shifts for the decentralized web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
