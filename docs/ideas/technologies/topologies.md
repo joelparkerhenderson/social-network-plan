@@ -5,7 +5,7 @@
 Discuss potential topologies of the social network, such as whether it is essentially centralized (as are Facebook and Twitter) or decentralized/distributed/federated (as are Mastodon and Secure Scuttlebutt).
 
 
-### Quotations
+## Quotations
 
 Quotations to consider:
 
@@ -23,7 +23,7 @@ Quotations to consider:
 * "Facebook is centralized. Diaspora is federated; the individual nodes (to which thousands of users are connected) will have far fewer resources to secure themselves than a behemoth like FaceBook, and also have issues of uptime, badwidth, etc. ScuttleButt is peer to peer, somewhat like torrents but for data feeds; more specifically, it's partially peer to peer because it uses gossip, so at times your peer might be a semi-centralized server, and at other times it could be a peer."
 
 
-### Wordbook
+## Wordbook
 
 Wordbook of terminology:
 
@@ -31,7 +31,7 @@ Wordbook of terminology:
 * [Distributed Social Networks - P2P Foundation](https://wiki.p2pfoundation.net/Distributed_Social_Network_Projects)
 
 
-### Commentary
+## Commentary
 
 * [Thoughts on federated social networks - by Matt Lee](https://medium.com/@mattl/thoughts-on-federated-social-networks-9f2962481911)
 * [Scuttlebutt, a decentralized alternative to Facebook](https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/)
@@ -43,7 +43,7 @@ Wordbook of terminology:
 Do distributed social networks exacerbate the problems that Facebook has been seeing so much backlash against?
 
 
-### Exploits
+## Exploits
 
 The Facebook Cambridge Analytica issue was caused by APIs that are too open. 
 
@@ -64,7 +64,7 @@ Comments:
 * "The attack surface for Scuttlebutt is much larger than for Facebook, and I trust Facebook's security team to audit and patch much more than I trust any random friend."
 
 
-### Accountability
+## Accountability
 
 There is a clear issue with Facebook's accountability. 
 
@@ -79,7 +79,7 @@ Comments:
 * "I think there is a natural monopoly for some aspects of this, which is why Facebook is so hard to quit. But I don't think the whole thing need be in private, for-profit hands. Mozilla shows that a nonprofit can be a good steward of important web assets, with much stronger user advocacy than for-profit companies normally do. Doing something like that for identity and interconnect between messaging and micropublishing providers seems much more robust than pure decentralization to me, which I expect would have the same failure mode as OpenSocial [1], where forces pushing toward natural monopoly are basically unchecked."
 
 
-### GDPR
+## GDPR
 
 How does a distributed system do GDPR compliance?
 
@@ -92,14 +92,14 @@ Comments:
 * "The GDPR argument is a bit moot because Scuttlebutt is no different than sharing pictures in gossip style (a.k.a. memes). If one of your childhood pictures happens to become the new meme, there's little hope that GDPR enforcement would suffice to de facto delete it from the internet: from Reddit, from Imgur, from independent websites, from Torrent, etc. The same is with Scuttlebutt, but data is primarily shared between friends without contracts, not from people to a particular company. GDPR applies to institutions."
 
 
-### Login
+## Login
 
 Comments:
 
 * "A lot of people like using Facebook as a login system. Maybe WebAuthn will help with that since it’s a valid use but most people didn’t see what else they were agreeing to."
 
 
-### Usability
+## Usability
 
 Some of the problems with Facebook are more about usability and clarifying how things work to users, for instance the scandal with people giving away access to their private messages.
 
@@ -108,12 +108,12 @@ Open source software and distributed software tends to be much harder to use.
 How to make an open source and/or distributed social network easier to sue?
 
 
-### Future-proofing
+## Future-proofing
 
 Will any future concern/issue be harder to resolve if there are many different instances running decentralized social networks?
 
 
-### Security
+## Security
 
 Using AI to detect abusive content or spot fake news is much harder if you only have a subset of the data. 
 
@@ -124,18 +124,15 @@ Comments:
 * "In a decentralized world, there's no one who has access to holistically examine automated access and detect shady activity. In a decentralized world, everything is essentially a third-party app.""
 
 
-### Policies
+## Policies
 
 Comments:
 
 * "We fail to consider policy when thinking about centralized/federated services. Centralized services provide strong, regular policy adherence across the network, whereas federated services provide weak, irregular policy adherence across the network. Centralized services can effectively silence a bad actor. They may also silence a good actor, but generally only under external pressure from government. Federated services have little or not ability to silence bad actors across the network, though individual instances may effectively silence "bad" actors. However in this capacity "bad" is not well understood and can simply mean the instance administrator does not like the person the silence. Individual instances may also give voice to bad actors."
 
 
-### Notifications
+## Notifications
 
 Comments:
 
 * "I’ve seen a lot of people use are notifications / invites. e.g. most big gaming communities are bad experiences but you can bootstrap your friends into a better group. That seems harder to change and it’s definitely a real need.
-
-
-

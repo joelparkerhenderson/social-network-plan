@@ -4,14 +4,15 @@
 
 Discuss data areas, such as who owns data, who uses it and how, who controls it and where it goes?
 
-### Quotations
+
+## Quotations
 
 Quotations to consider:
 
 * "We want to put you in control — and be transparent about what information we have and how it is used."
 
 
-### References
+## References
 
 * [Hard Questions: What Data Does Facebook Collect When I’m Not Using Facebook, and Why?](https://newsroom.fb.com/news/2018/04/data-off-facebook/) 
 
@@ -37,9 +38,9 @@ Data collection reasoning:
 * Cookies and other identifiers help us count the number of unique visitors, and help us recognize which visitors are our users, so we can provide aggregated demographic information, like age and gender, about the people using the site.
 
 
-### Data for adversting
+## Data for adversting
 
-Data helps us enable websites and apps to show ads from our advertisers. 
+Data can increase capabilties for advertising-oriented websites and apps to target ads to users.
 
 * When we get a request to show an ad, we need to know where to send it, and the browser and operating system a person is using. 
 
@@ -48,25 +49,25 @@ Data helps us enable websites and apps to show ads from our advertisers.
 * An advertiser can choose to add our pixel, which is some computer code, to their site. This allows us to give advertisers statistics about how many people are responding to their ads — even if they saw the ad on a different device — without us sharing anyone’s personal information.
 
 
-### Data for security
+## Data for security
 
-Receiving data about the sites a particular browser has visited can help us identify bad actors. 
+Receiving data about the sites a particular browser has visited can help security teams identify bad actors, fault conditions, and malicious payloads.
 
 * Example: if someone tries to log into your account using an IP address from a different country, we might ask some questions to verify it’s you. 
 
 * Example: if a browser has visited hundreds of sites in the last five minutes, that’s a sign the device might be a bot. We’ll ask them to prove they’re a real person by completing additional security checks.
 
 
-### Data for improving Our Products and Services
+## Data for improving offerings
 
-Data helps us improve the content and ads we show. 
+Data can help some websites, apps, and companies, as they aim to improve products and services.
 
 * Example: if you visit a lot of sports sites that use our services, then you might see sports-related stories higher up in your News Feed. 
 
 * Example: if you visit a lot of travel sites that use our services, then you might see ads for travel packages, plane flights, and hotels.
 
 
-### Data controls
+## Data controls
 
 We give you a number of controls over the way this data is used to provide more relevant content and ads.
 
@@ -99,13 +100,13 @@ Answers:
 * A possible explanation is cross device targeting using IP address. Most ad tech companies do cross device targeting, using device maps bought from other companies (Drawbridge being one). These companies attempt to assign a variety of devices from the same person to a single advertising profile. The simplest way they do this is by IP address. So if they have an IP address with a small number of devices, they decide it is probably a household and assign all those devices to the same advertising profile. So, by being on the same wifi together (either at your place or hers) they will show ads on her devices based on your behavior (and vice versa).
 
 * My guess would be: 1) Facebook (ie instagram) knows you are in a relationship. 2) Facebook knows girlfriend's location from being signed in (on Instagram). 3) Facebook knows locations are at open houses from data gathered from other users or around the web. Or maybe Facebook knows that going to a few totally new random residential locations in a short period of time, combined with girlfriend's other engagement activities means user is looking for a new place to live.
-	
+
 * The Facebook app tracks location and other peoples' locations, and makes assumptions based on people being at the same place at the same time. If Facebook (or whoever) knows that several other people are all interested in new houses, and all those people + your girlfriend go to the same place(s), Facebook decides that your girlfriend might have the same interest as all those other people.
 
 * Android by default tracks your location constantly. I recently got a Pixel and was staying in a hotel. Every night I came back to the hotel room it would ask me to rate it or upload pictures of it to Google Maps. It can be disabled in Settings, iirc.
 
 * Advertisers are really good at using available data to predict information that was never provided. In the case of the kung fu movie, it's possible IP address was used. For the open house, there could be some location correlation, but I would bet it's more than that (age, financial profile, relationship status). You can feed a bunch of data about someone to an algorithm and predict these things with pretty high confidence. The way to avoid this is to opt out of interest based ads. iOS and Android both have options for this.
-	
+
 Questions:
 
 * Did you guys use an app (e.g. Zillow, Trulia) to look up listings?
@@ -117,4 +118,3 @@ Questions:
 * Did her smartphone location ever correspond with a house that is listed on the MLS in the past week?
 
 * Did either one of you login to amazon, Facebook, google, etc on one of the other persons device? If so there is likely still a tracking cookie associating you with her device, and your searches are causing her device to be targeted.
-

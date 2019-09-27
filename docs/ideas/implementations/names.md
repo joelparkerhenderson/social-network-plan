@@ -14,4 +14,3 @@ Quotations to consider:
 * "Some people like to use fake names and pseudonyms. These are good for established alter-egos, such as people with pen names. These are also good for people who may need to protect themselves because they may be targets of persecution."
 
 * "Real name policies are unreliable, impossible to enforce correctly, and disproportionally cause problems for ethnic groups and people with unusual names, multiple names, or cross-cultural names."
-

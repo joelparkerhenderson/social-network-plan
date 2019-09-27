@@ -3,7 +3,7 @@
 Discuss potential funding ideas, such as advertisements, donations, subscriptions.
 
 
-### Quotations
+## Quotations
 
 Quotations to consider:
 
@@ -14,7 +14,7 @@ Quotations to consider:
 * "Subscription sounds like it might be a good idea because it seems like it would remove the incentive to monetize personal information, but in practice it creates a barrier to adoption and makes the social network kind of useless."
 
 
-### Wordbook
+## Wordbook
 
 Wordbook of terminology:
 
@@ -33,7 +33,7 @@ Advertising choices:
 * Page-targeting: an ad is chosen based on the content that's on the page, such as search results.
 
 
-### Comments
+## Comments
 
 "Lobby government to provide $X annually per citizen that gets allocated to the user's choice to pay for their social network platform of choice; this would have to be tied to specific rules/guidelines. E.g. mandatory tax money that the person distributes how they want. Whether this will lead to the desired outcome, I'm unsure - people might still just want to give their money to Facebook or a platform who takes that money + still does less-than-good or less-than-desired behaviours, requiring regulation and oversight, costing taxpayers anyway. It might also incentivize private dollars to be more willing to invest in platforms if there's that money per-user that would be available."
 

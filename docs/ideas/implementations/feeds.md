@@ -5,7 +5,7 @@
 Discuss feeds and how to decide what the feeds show in terms of stories, posts, photos, etc., such as a linear feed that shows everything, or an algorithmic feed that automatically guesses what the user may want to see, or a customizable feed that lets the user choose options for what shows up.
 
 
-### Quotations
+## Quotations
 
 Quotations to consider:
 

@@ -5,25 +5,26 @@
 Discuss ideas for audiences, such as the general public, or niche groups, or special needs of people.
 
 
-### Quotations
+## Quotations
 
 Quotations to consider:
 
 * "The social startups that have struck it big in the post-Facebook era have all started by carving out a different niche. That difference can’t just be about a site’s back-end architecture or business model, as with Diaspora (an open-source Facebook) or App.net (a Twitter without ads). The product itself has to fulfill a fresh purpose for its users, like sharing snazzy smartphone snapshots (Instagram), networking and advancing their careers (LinkedIn), or showing off their taste in fashion, food, and design (Pinterest)."
 
 
-### General public
+## General public
 
 General public means the widest-possible audience appeal.
 
 
-### Niches and special interests
+## Niches and special interests
 
 Discuss possible niches and special interests for starting a new social network. 
 
 Feedback on any of these are welcome, and more ideas are very welcome. 
 
 Music:
+
 * Music sharing seems to spread very well e.g. Spotify playlists.
 * Music involves many areas e.g. people, bands, clubs, promoters, events, tickets.
 * Many people have many opinions and multiple reasons to share.
@@ -34,6 +35,7 @@ Music:
 * Similar approaches can be considered for movies, television, etc.
 
 Meets:
+
 * Meets, such as Meetup.com, 
 * Meets involve many areas e.g. attendees, hosts, locations, events, tickets.
 * Many people want real-world interaction, and enjoy going to local events together.
@@ -42,6 +44,7 @@ Meets:
 * Easy to bootstrap, especially if there's a partnership with an events company.
 
 Malls:
+
 * Malls tend to have anchor positions in many cities and towns, at least in the U.S.
 * Malls involve many areas e.g. shoppers, stores, brands, coupons, sales.
 * Malls are widely understood, and coupons have an immediate value prop.
@@ -49,8 +52,8 @@ Malls:
 * Easy to focus geographically on specific cities and then grow larger.
 
 Mashups:
+
 * Mashups can interconnect multiple existing sites, to create a new kind of site.
 * Mashups can be more akin to open intergrations, less akin to closed walled gardens.
 * Potentially great to bootstrap, by connecting two or more useful sites.
 * Easy to focus on the users of the initial mashup sites, and these users' goals.
-

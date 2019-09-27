@@ -11,4 +11,3 @@ Examples:
 Articles:
 
 * [How to Develop a Code of Conduct for Your Company](https://www.thebalancecareers.com/code-of-conduct-1918088)
-

@@ -1,9 +1,9 @@
-## Disclosure policies
+# Disclosure policies
 
 [Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/22)
 
 
-### Coordinated disclosure
+## Coordinated disclosure
 
 Coordinated disclosure, sometimes a.k.a. responsible disclosure, explains how people can report potential security issues, and work together to address the issues.
 
@@ -12,7 +12,7 @@ References:
 * http://github.com/joelparkerhenderson/coordinated_disclosure
 
 
-### Dropbox
+## Dropbox
 
 Dropbox is publishing a security disclosure policy, and also blogging about it.
 
@@ -32,4 +32,3 @@ Excerpts:
 * 4. A pledge that we won’t bring a Digital Millennium Copyright Act (DCMA) action against a researcher for research consistent with the policy.
 
 * 5. A pledge that if a third party initiates legal action, Dropbox will make it clear when a researcher was acting in compliance with the policy (and therefore authorized by us).
-

@@ -11,5 +11,3 @@ https://matrix.org/
 Riot is a glossy Matrix client with an emphasis on performance and usability.
 
 https://matrix.org/docs/projects/client/riot.html
-
-

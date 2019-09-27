@@ -15,5 +15,3 @@ Articles:
 
 * [WTF is GDPR?](https://techcrunch.com/2018/01/20/wtf-is-gdpr/)
 * [Hundreds of millions impacted by new Yahoo, AOL, privacy policies that collect emails, texts, photos](https://www.theblaze.com/news/2018/04/15/hundreds-of-millions-impacted-by-new-yahoo-aol-privacy-policies-that-collect-emails-texts-photos)
-
-
