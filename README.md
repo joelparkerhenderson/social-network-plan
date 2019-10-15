@@ -36,6 +36,7 @@ Implementations:
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/implementations/feeds.md)
 * [**Data**: who owns it, who uses it, who controls it?](docs/ideas/implementations/data.md)
 * [**Funding**: advertisements, donations, subscriptions?](docs/ideas/implementations/funding.md)
+* [**Schema**: data modeling, domain driven design?](docs/ideas/implementations/schema.md)
 
 Policies:
 
