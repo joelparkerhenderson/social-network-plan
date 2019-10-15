@@ -5,7 +5,7 @@
 
 ## Abstract
 
-We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. We want to explore the viability of new social network that aims for more social good. This document is a request for comments.
+We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: fake accounts, rife advertising, security breaches, poor accountability, unstable pricing, and restricted rights; these problems harm people and society. We want to explore the viability of new social network that aims for more social good. This document is a request for comments.
 
 
 ## About
