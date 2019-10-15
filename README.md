@@ -42,7 +42,7 @@ Policies:
 
 * [**Conduct policies**: code of conduct, community guidelines, etc.](docs/ideas/policies/conduct_policies.md)
 * [**Privacy policies**: user rights, transparency guidelines, etc.](docs/ideas/policies/privacy_policies.md)
-* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/ideas/policies/disclosure_policies.md)
+* [**Disclosure policies**: security reporting, bug tracking, etc.](docs/ideas/policies/disclosure_policies.md)
 
 Possibilities:
 
