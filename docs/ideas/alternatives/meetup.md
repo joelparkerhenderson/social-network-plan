@@ -2,6 +2,8 @@
 
 Lists:
 
+  * https://phacks.dev/meetup-com-alternatives
+  
   * https://github.com/coderbyheart/open-source-meetup-alternatives
 
 Sites:
