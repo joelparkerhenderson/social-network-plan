@@ -8,10 +8,9 @@ Discuss organizational structures, such as organizing as a for-profit company, o
 ## Quotations
 
 
-
 ## For-profit
 
-Examples: 
+Examples:
 
 * [Facebook](https://facebook.com)
 
@@ -22,7 +21,7 @@ Examples:
 
 ## Non-profit
 
-Examples: 
+Examples:
 
 * [Craigslist](https://craigslist.org) is a kind of social network in the sense of helping people post classified ads, search them, and email about them.
 
@@ -94,6 +93,13 @@ Quotations about features:
 * "Government entities could publish data that citizens could subscribe to, such as community classes at the local library, parks department announcing a call for volunteers, DMV office closings, IRS filing deadlines, local civic board meeting notes, and of course, PBS content. It could be one source to consume all of the potential open data available to citizens. It could also be a portal to find the right government services, as well as pass information to it: report a crime, pothole, zoning violation, etc much like '311 apps' do today (e.g. [Philadelphia 311](https://www.phila.gov/311/form/Pages/default.aspx), [Open Maps Philly](https://openmaps.phila.gov/), [Open Data Philly](https://www.opendataphilly.org/), [Philly Property History](https://li.phila.gov/), [Philly Atlas](https://atlas.phila.gov/)).
 
 * "Why will people use a governmental social network? Can I get news updates? Can I find funny/entertaining content? Can I reasonably expect organic engagement, and potential virality? Can I get private life updates from my friends, without the government's eyes peering in? People don't typically go to PBS for most of these things (news is one thing they do), so I can't imagine how a "PBS" for social media would be very different."
+
+
+## Hybrid
+
+Could a new social network be a hybrid organization, such as having some aspects be for-profit, other aspects be non-profit, etc.? For example, Craigslist has some aspects that are for-profit and/or paid (e.g. commericial help wanted adverstisement postings) and some aspects that are non-profit and/or free (e.g. Craigslist Foundation).
+
+Could a new social network leverage existing social networks? For example, could a new network use sign in capabilties that leverage Facebook Connect, Google authentication, Twitter APIs, etc.?
 
 
 ## Articles
