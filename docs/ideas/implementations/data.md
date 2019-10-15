@@ -14,7 +14,7 @@ Quotations to consider:
 
 ## References
 
-* [Hard Questions: What Data Does Facebook Collect When I’m Not Using Facebook, and Why?](https://newsroom.fb.com/news/2018/04/data-off-facebook/) 
+* [Hard Questions: What Data Does Facebook Collect When I’m Not Using Facebook, and Why?](https://newsroom.fb.com/news/2018/04/data-off-facebook/)
 
 
 ### Data collection
@@ -33,7 +33,7 @@ Data collection reasoning:
 
 * IP addresses help us list the countries where people are using an app.
 
-* Browser and operating system information enable us to give developers information about the platforms people use to access their app. 
+* Browser and operating system information enable us to give developers information about the platforms people use to access their app.
 
 * Cookies and other identifiers help us count the number of unique visitors, and help us recognize which visitors are our users, so we can provide aggregated demographic information, like age and gender, about the people using the site.
 
@@ -42,7 +42,7 @@ Data collection reasoning:
 
 Data can increase capabilties for advertising-oriented websites and apps to target ads to users.
 
-* When we get a request to show an ad, we need to know where to send it, and the browser and operating system a person is using. 
+* When we get a request to show an ad, we need to know where to send it, and the browser and operating system a person is using.
 
 * Cookies and device identifiers help us determine whether the person is our user. If the person is our user, then we can use the fact that they visited a business’s site or app to show them an ad from that business or a similar one. If the person isn't our user, then we can show an ad encouraging them to sign up.
 
@@ -53,7 +53,7 @@ Data can increase capabilties for advertising-oriented websites and apps to targ
 
 Receiving data about the sites a particular browser has visited can help security teams identify bad actors, fault conditions, and malicious payloads.
 
-* Example: if someone tries to log into your account using an IP address from a different country, we might ask some questions to verify it’s you. 
+* Example: if someone tries to log into your account using an IP address from a different country, we might ask some questions to verify it’s you.
 
 * Example: if a browser has visited hundreds of sites in the last five minutes, that’s a sign the device might be a bot. We’ll ask them to prove they’re a real person by completing additional security checks.
 
@@ -62,7 +62,7 @@ Receiving data about the sites a particular browser has visited can help securit
 
 Data can help some websites, apps, and companies, as they aim to improve products and services.
 
-* Example: if you visit a lot of sports sites that use our services, then you might see sports-related stories higher up in your News Feed. 
+* Example: if you visit a lot of sports sites that use our services, then you might see sports-related stories higher up in your News Feed.
 
 * Example: if you visit a lot of travel sites that use our services, then you might see ads for travel packages, plane flights, and hotels.
 
@@ -87,9 +87,9 @@ Reference:
 
 * https://news.ycombinator.com/item?id=16859823
 
-Questions: 
+Questions:
 
-* My girlfriend is being shown ads depending on what we do together. How? 
+* My girlfriend is being shown ads depending on what we do together. How?
 
 * My girlfriend came to check out some open houses with me yesterday after work. By 10 PM, she was seeing ads on Instagram for new houses. She hasn't shopped for a house before, or even done any searches on Google on that topic. I simply invited her to come with me and she did. Similarly, we were at her place the other day and watched a kung fu movie on my laptop (connected to her wifi), and then went to bed. The next morning she started seeing ads for martial arts schools in the area. What is happening?
 
@@ -113,7 +113,7 @@ Questions:
 
 * Did you invite her to come see the open house by texting her "hey, want to come see an open house"?
 
-* Did she discuss looking at houses with you or anybody in emails or social media messages? 
+* Did she discuss looking at houses with you or anybody in emails or social media messages?
 
 * Did her smartphone location ever correspond with a house that is listed on the MLS in the past week?
 

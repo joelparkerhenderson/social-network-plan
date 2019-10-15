@@ -2,7 +2,7 @@
 
 ## Matrix
 
-Matrix is an open network for secure, decentralized communication. 
+Matrix is an open network for secure, decentralized communication.
 
 https://matrix.org/
 

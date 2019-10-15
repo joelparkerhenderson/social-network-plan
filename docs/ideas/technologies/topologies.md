@@ -45,11 +45,11 @@ Do distributed social networks exacerbate the problems that Facebook has been se
 
 ## Exploits
 
-The Facebook Cambridge Analytica issue was caused by APIs that are too open. 
+The Facebook Cambridge Analytica issue was caused by APIs that are too open.
 
 For distributed systems, are there more ways to exploit the APIs and gather data on users?
 
-Some technologies believe that distributed systems can use more-protectable protocols and more-protectable encryption. 
+Some technologies believe that distributed systems can use more-protectable protocols and more-protectable encryption.
 
 Comments:
 
@@ -66,7 +66,7 @@ Comments:
 
 ## Accountability
 
-There is a clear issue with Facebook's accountability. 
+There is a clear issue with Facebook's accountability.
 
 Distributed run on multiple servers, with multiple owners, and may also be open source.
 
@@ -115,7 +115,7 @@ Will any future concern/issue be harder to resolve if there are many different i
 
 ## Security
 
-Using AI to detect abusive content or spot fake news is much harder if you only have a subset of the data. 
+Using AI to detect abusive content or spot fake news is much harder if you only have a subset of the data.
 
 Does it becomes harder to address these concerns in a distributed setting?
 

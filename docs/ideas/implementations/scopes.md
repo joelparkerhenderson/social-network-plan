@@ -59,4 +59,3 @@ Capabilities that we expect to defer to future scope:
 * Account portability
 * Fine-grained access control e.g. private messages
 * Fine-grained server networking e.g. LAN neighborhoods
-w

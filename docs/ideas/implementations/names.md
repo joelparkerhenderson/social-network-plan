@@ -28,6 +28,6 @@ On a related note, thinking that a protocol like ActivityPub can replace Faceboo
 
 Without a viable real_names lookup database, it's pointless for Everybody To Have Personal Websites because there's no easy way for them to connect to other relevant websites to share data. That "connection" is easiest and more scalable when it's based on real names instead of urls.
 
-For a database lookup of domain names to ip addresses, we have a canonical and universal "database": DNS. It's also very useful to have a "real names" reverse-lookup to "web profiles" but right now, the closest analogy we have to that is the realnames database privately owned by Facebook. 
+For a database lookup of domain names to ip addresses, we have a canonical and universal "database": DNS. It's also very useful to have a "real names" reverse-lookup to "web profiles" but right now, the closest analogy we have to that is the realnames database privately owned by Facebook.
 
-Facebook themselves took roughly 10 years to build it, and they used a lot of psychological tricks to do it (first mover advantage, early FB was "exotic" and "invite only", late FB was an avalanche of FOMO and network effects, etc). Similarly, the history of the White Pages and the Yellow Pages is a fascinating read and took decades for those books to be accepted. 
+Facebook themselves took roughly 10 years to build it, and they used a lot of psychological tricks to do it (first mover advantage, early FB was "exotic" and "invite only", late FB was an avalanche of FOMO and network effects, etc). Similarly, the history of the White Pages and the Yellow Pages is a fascinating read and took decades for those books to be accepted.

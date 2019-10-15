@@ -26,5 +26,5 @@ Discuss project tools such as:
 Discuss project methodologies such as:
 
 * Agile, lean, kanban, waterfall, etc.
-* Model, view, controller (MVC), data, context, interaction (DCI), etc. 
+* Model, view, controller (MVC), data, context, interaction (DCI), etc.
 * Functional code may be easier to create reliably and easier to scale up.

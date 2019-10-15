@@ -14,7 +14,7 @@ Examples:
 
 ## Meta-route
 
-We use the term "meta-route" to generically describe a route that contains another route. 
+We use the term "meta-route" to generically describe a route that contains another route.
 
 Examples where each website URL route contains another route:
 

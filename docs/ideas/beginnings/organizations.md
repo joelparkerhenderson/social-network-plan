@@ -1,4 +1,4 @@
-# Organizations: for-profit, non-profit, governmental, etc? 
+# Organizations: for-profit, non-profit, governmental, etc?
 
 
 [Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/26)

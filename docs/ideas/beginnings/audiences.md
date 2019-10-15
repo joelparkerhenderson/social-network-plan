@@ -19,9 +19,9 @@ General public means the widest-possible audience appeal.
 
 ## Niches and special interests
 
-Discuss possible niches and special interests for starting a new social network. 
+Discuss possible niches and special interests for starting a new social network.
 
-Feedback on any of these are welcome, and more ideas are very welcome. 
+Feedback on any of these are welcome, and more ideas are very welcome.
 
 Music:
 
@@ -36,7 +36,7 @@ Music:
 
 Meets:
 
-* Meets, such as Meetup.com, 
+* Meets, such as Meetup.com,
 * Meets involve many areas e.g. attendees, hosts, locations, events, tickets.
 * Many people want real-world interaction, and enjoy going to local events together.
 * Meets can also be done online, such as gaming events, Twitch, YouTube live, etc.
