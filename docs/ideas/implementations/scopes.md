@@ -48,6 +48,8 @@ Capabilities that we like and want in MVP scope if reasonable:
 
 * Post: e.g. with a combination of title, text, link, image
 
+* Redo: e.g. rename, rewrite, reschedule
+
 * Blob: e.g. photo, video, audio, document
 
 * Team: e.g. group, circle, room, forum, channel, categories
