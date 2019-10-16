@@ -27,35 +27,67 @@ References to read:
 We believe that to be successful, the best path is to create the simplest-possible social network that people will actually use. This is a minimum viable product (MVP).
 
 
-### Yes, likely in scope
+### Yes, definitely in MVP scope
 
-Capabilities that we believe must be in scope:
+Capabilities that we believe must be in MVP scope:
 
-* Join: e.g. sign up, sign in, sign out, manage your data, delete your account
+* Join: e.g. sign up, sign in, sign out, manage your data, delete your account - a.k.a. authenticate, authorize, audit, abort.
+
+* Item: e.g. a person, place, thing, event, organization - a.k.a. data content with create, read, update, delete.
+
+* Find: e.g. simple search by text, location, timespan
+
+
+### Maybe, possibly in MVP scope
+
+Capabilities that we like and want in MVP scope if reasonable:
+
+* Wall: e.g. a profile page, news feed, calendar timeline
+
+* Mark: e.g. like, love, star, flag, tag, rsvp, vote
+
 * Post: e.g. with a combination of title, text, link, image
-* Wall: e.g. a profile page, news feed, timeline, calendar
-* Item: e.g. a person, place, event, organization
 
-
-### Maybe, possibly in scope
-
-Capabilities that we like, yet don't know if they must be in scope:
-
-* Mark: e.g. like, love, star, upvote, downvote, flag, tag
 * Blob: e.g. photo, video, audio, document
+
 * Team: e.g. group, circle, room, forum, channel, categories
-* Chat: e.g. comment, message, mail
+
+* Chat: e.g. comment, message, mail, review
+
+* Admin: e.g. audit/manage, approve/reject, flag/triage, censor/ban
 
 
-### No, not in scope
+### No, defer past MVP scope
 
-Capabilities that we expect to defer to future scope:
+Capabilities that we expect to defer to after MVP scope:
 
 * Mobile apps
+
 * Old browsers
+
 * Live streams
+
 * Notifications
-* Payments
+
+* Integrations: APIs, feeds, pub/sub, RSS/Atom/ActivityPub, vCard/vCalendar
+
+* Commerce: shopping, payments, coupons, coins, advertisements, promotions
+
+* Distributed, federated
+
 * Account portability
+
+* Meta-editing: revisioning, composting, coalescing, gardening, teaming
+
 * Fine-grained access control e.g. private messages
+
 * Fine-grained server networking e.g. LAN neighborhoods
+
+
+### Software quality attributes
+
+* Accessibility: e.g. vision assistance, keyboard navigation, WCAG 2.1 AAA criteria
+
+* Personalizability: e.g. internationalization, localization, personal pronouns
+
+* Responsibility: e.g. code of conduct, member guidelines, dispute handling
