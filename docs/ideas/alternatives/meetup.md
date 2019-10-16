@@ -58,6 +58,8 @@ Sites:
 
   * [Gospeak](https://www.gospeak.fr/) - A platform for meetup organizers and speakers.
 
+  * [Kickback]((https://kickback.events/) - An Ethereum-based platform which aims to reduce event no-shows.
+
 
 ## Alternatives posted on Hacker News
 
@@ -125,6 +127,17 @@ The good news is I've spent the past two years thinking about this problem. And 
 ### Bailiwik
 
 Bailiwik helps people turn the places they care about into communities that connect online and off. Our app puts local connectors at the center: they define their community on the map, they name it, they design it and they play a leading role in the shared community chat room. Community members chat with each other, share events, enjoy deals from local merchants -- and live richer and more fun lives as a result. We strive to empower leaders to cultivate inclusive communities of connection, collaboration, and kindness.
+
+
+### Kickback
+
+I helped build Kickback (https://kickback.events/), an Ethereum-based platform which aims to reduce event no-shows. Essentially speaking, each attendee commits a small amount of money (e.g. $10) when they RSVP. If they turn up they get their money back. If they don't show up their money gets split amongst those who did. The money handling is secure, transparent and automated via a smart contract running on Ethereum.
+
+(Most recently we did 13 small events at the Devcon5 conference in Osaka and got an overall average turn-up rate of ~80% on Kickback).
+
+If we're building an alternative to meetup.com how about integrating with platforms like Kickback and/or incorporating such features?
+
+You can even use our smart contracts directly: (https://github.com/wearekickback/contracts).
 
 
 ## Opportunities
