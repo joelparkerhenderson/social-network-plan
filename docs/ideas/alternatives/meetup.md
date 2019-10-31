@@ -58,7 +58,7 @@ Sites:
 
   * [Gospeak](https://www.gospeak.fr/) - A platform for meetup organizers and speakers.
 
-  * [Kickback]((https://kickback.events/) - An Ethereum-based platform which aims to reduce event no-shows.
+  * [Kickback](https://kickback.events/) - An Ethereum-based platform which aims to reduce event no-shows.
 
 
 ## Alternatives posted on Hacker News
