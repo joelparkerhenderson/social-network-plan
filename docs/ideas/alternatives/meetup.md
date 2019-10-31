@@ -60,6 +60,8 @@ Sites:
 
   * [Kickback](https://kickback.events/) - An Ethereum-based platform which aims to reduce event no-shows.
 
+  * [frab](https://github.com/frab/frab) - Free and open conference management system.
+
 
 ## Alternatives posted on Hacker News
 
