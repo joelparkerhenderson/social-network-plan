@@ -8,7 +8,7 @@ We use the term "route" to generically describe a way to reach people, places, i
 Examples:
 
 * Email addresses: <a href="mailto:alice@example.com">alice@example.com</a>
-* Phone number: <a href="tel:1-415-317-2700">1-415-317-2700</a>
+* Phone number: <a href="tel:1-800-555-0000">1-800-555-0000</a>
 * Web page: <a href="http://reddit.com">http://reddit.com</a>
 
 
