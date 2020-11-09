@@ -5,7 +5,7 @@
 
 ## Abstract
 
-We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: fake accounts, rife advertising, security breaches, poor accountability, unstable pricing, and restricted rights; these problems harm people and society. We want to explore the viability of new social network that aims for more social good. This document is a request for comments.
+We believe social networks have significant benefits for people and society.  We want to explore the viability of new social networks that aim for more social good, and also that mitigate known challenges of spamming, hacking, tracking, and the like. This document is a request for comments.
 
 
 ## About
@@ -68,18 +68,23 @@ Context of this project includes areas such as:
 [Instagram](https://instagram.com),
 [Pinterest](https://pinterest.com),
 [YouTube](https://youtube.com),
+[TikTok](https://tiktok.com),
 [Snap](https://snap.com/).
 * Smaller social networks:
 [MeWe](https://mewe.com), 
 [Vero](https://www.vero.co/), 
-[Ello](https://ello.co/).
+[Ello](https://ello.co/),
+[Clubhouse](https://www.joinclubhouse.com/),
+[WT.social](https://wt.social/),
+[Parler](https://parler.com/).
 * Distributed social networks:
 [Mastodon](https://mastodon.social),
 [Patchwork](https://github.com/ssbc/patchwork),
 [GNU Social](https://gnu.io/).
-* Blogs:
-[Wordpress](https://wordpress.com),
-[Medium](https://medium.com).	
+* Blog networks:
+[WordPress](https://wordpress.com),
+[Medium](https://medium.com),
+[Wix](https://wix.com).
 * Static site generators:
 [Hugo](https://gohugo.io/),
 [Metalsmith](www.metalsmith.io/),
@@ -108,6 +113,7 @@ Context of this project includes areas such as:
 [Software Freedom Conservancy (SFC)](https://sfconservancy.org/).
 * Social coding sites:
 [GitHub](https://github.com),
+[GitLab](https://gitlab.com),
 [StackOverflow](https://stackoverflow.com).
 * Social identity:
 [GPG](https://www.gnupg.org/),
@@ -120,5 +126,6 @@ Context of this project includes areas such as:
 * Crowdfunding: 
 [Patreon](https://www.patreon.com), 
 [GoFundMe](https://www.gofundme.com/), 
-[Kickstarter](https://www.kickstarter.com).
+[Kickstarter](https://www.kickstarter.com),
+[Indiegogo](https://www.indiegogo.com).
 
