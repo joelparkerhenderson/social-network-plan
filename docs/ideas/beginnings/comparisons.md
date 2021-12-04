@@ -31,10 +31,15 @@ Similarities to many existing social networks:
 
 Differences from many existing social networks:
 
+* I want multiple profiles, such as personal and professional.
+* I want multiple names, such as my birth name and my fame name.
+* I want multiple facets, such as a facet for each of my groups.
+* I want multiple genders, such as when I transition male to female.
 * I want to use a pseudeonym, not my real name.
-* I want a personal page and a professional page.
-* I want ways to do more locally, e.g. like NextDoor.
+* I want transparency, such as knowing who's viewing me, when, where.
+* I want ways to engage more locally, e.g. like NextDoor.
 * I want to promote my small business to neighbors.
+* I want features that help me do my side-hustles.
 
 Versus Twitter:
 
