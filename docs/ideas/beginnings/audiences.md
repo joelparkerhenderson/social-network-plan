@@ -23,18 +23,36 @@ Discuss possible niches and special interests for starting a new social network.
 
 Feedback on any of these are welcome, and more ideas are very welcome.
 
-Music:
 
-* Music sharing seems to spread very well e.g. Spotify playlists.
+### Topic-based
+
+E.g. music:
+
+* Music sharing spreads very well e.g. via creators, promoters, playliist sites.
 * Music involves many areas e.g. people, bands, clubs, promoters, events, tickets.
 * Many people have many opinions and multiple reasons to share.
 * Many people love ongoing engagement and also love new discovery.
-* Data collection is less risky e.g. data is not medical, business, family.
 * Easy to bootstrap e.g. via public data, wikipedia, existing sites.
 * Easy to focus geographically on major U.S. cities e.g. LA then NY.
 * Similar approaches can be considered for movies, television, etc.
 
-Meets:
+
+### Affiliation-based
+
+E.g. causes:
+
+* Causes can be political e.g. candidates, campaigns, legistations, votes.
+* Causes can involve idenity e.g. Black Lives Matter, Pride, Moms Demand Action.
+* Causes can involve people e.g. activists, organizers, volunteers, donors.
+* Causes can involve outreaches e.g. mailers, promotions, events, surveys.
+* Causes can involve locations e.g. local, regional, national, worldwide.
+* Easy to bootstrap e.g. via existing cause organzations and social groups.
+* Easy to promote e.g. via existing cause leaders, participants, reporters.
+
+
+### Activity-based
+
+E.g. meets:
 
 * Meets, such as Meetup.com,
 * Meets involve many areas e.g. attendees, hosts, locations, events, tickets.
@@ -43,7 +61,10 @@ Meets:
 * Meets can be of many kinds, such as professional, personal, hobby-based, etc.
 * Easy to bootstrap, especially if there's a partnership with an events company.
 
-Malls:
+
+### Location-based
+
+E.g. malls:
 
 * Malls tend to have anchor positions in many cities and towns, at least in the U.S.
 * Malls involve many areas e.g. shoppers, stores, brands, coupons, sales.
@@ -51,7 +72,10 @@ Malls:
 * Easy to bootstrap, especially if there's a partnership with mall group.
 * Easy to focus geographically on specific cities and then grow larger.
 
-Mashups:
+
+### Integration-based
+
+E.g. mashups:
 
 * Mashups can interconnect multiple existing sites, to create a new kind of site.
 * Mashups can be more akin to open intergrations, less akin to closed walled gardens.
